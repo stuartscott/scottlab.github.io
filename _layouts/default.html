@@ -4,16 +4,13 @@
     <body id="page-top" class="index">
     {% include nav.html %}
     {% include header.html %}
-    {% include portfolio_grid.html %}
-    {% include about.html %}
 
-    {% if site.contact == "static" %}
-    {% include contact_static.html %}
-    {% else %}
-    {% include contact.html %}
-    {% endif %}
+    {% for page in site.pages offset:3%}
+        {% include one_col_content.html %}
+    {% endfor %}
 
     {% include footer.html %}
+
     {% include modals.html %}
     {% include js.html %}
     </body>

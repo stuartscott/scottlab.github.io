@@ -1,0 +1,17 @@
+<!-- Section -->
+    {% assign index_var = forloop.index | modulo:2 %}
+
+    <section {% if index_var == 0 %} class="success" {% endif %} id="{{page.title | downcase}}">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>{{page.title}}</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    {{page.content | markdownify}}
+                </div>
+            </div>
+        </div>
+    </section>
