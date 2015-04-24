@@ -6,7 +6,11 @@
     {% include header.html %}
 
     {% for page in site.pages offset:3%}
-        {% include one_col_content.html %}
+        {% if page.title == "Publications" %}
+            {% include publications.html %}
+        {% else %}
+            {% include one_col_content.html %}
+        {% endif%}
     {% endfor %}
 
     {% include footer.html %}
