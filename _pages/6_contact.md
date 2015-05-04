@@ -6,22 +6,24 @@ published: true
 <br>
 
 **Office:**
-Stuart A. Scott, PhD
-Department of Genetics and Genomic Sciences
-Icahn School of Medicine at Mount Sinai
-Atran Berg Laboratory Building
-1428 Madison Avenue
-1st Floor, Room AB1-41
-New York, NY 10029 
-Tel: 212-241-3780
-stuart.scott@mssm.edu
+
+Stuart A. Scott, PhD   
+Department of Genetics and Genomic Sciences   
+Icahn School of Medicine at Mount Sinai  
+Atran Berg Laboratory Building  
+1428 Madison Avenue  
+1st Floor, Room AB1-41  
+New York, NY 10029   
+Tel: 212-241-3780  
+stuart.scott@mssm.edu  
 
 **Research Laboratory:**
-Stuart A. Scott, PhD
-Department of Genetics and Genomic Sciences
-Icahn School of Medicine at Mount Sinai
-Icahn Medical Institute
-1425 Madison Avenue
-14th Floor, Room 14-52D
-New York, NY 10029 
-Tel: 212-659-6727
+
+Stuart A. Scott, PhD  
+Department of Genetics and Genomic Sciences  
+Icahn School of Medicine at Mount Sinai  
+Icahn Medical Institute  
+1425 Madison Avenue  
+14th Floor, Room 14-52D  
+New York, NY 10029   
+Tel: 212-659-6727  

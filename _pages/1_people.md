@@ -3,23 +3,23 @@ title: People
 published: true
 ---
 
-**Stuart A. SCOTT, PhD**
+**Stuart A. SCOTT, PhD**  
 XXX
 
-**Yao YANG, PhD**
+**Yao YANG, PhD**  
 XXX
 
-**Benjamin S. PULLMAN, BS**
+**Benjamin S. PULLMAN, BS**  
 XXX
 
-**Irene L. FENG**
+**Irene L. FENG**  
 XXX
 
-**Jeffrey SLOAD**
+**Jeffrey SLOAD**  
 XXX
 
-**Suparna MARTIS, PhD**
+**Suparna MARTIS, PhD**  
 XXX
 
-**Manishkumar PATEL, MS**
+**Manishkumar PATEL, MS**  
 XXX
