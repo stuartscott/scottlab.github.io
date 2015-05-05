@@ -5,9 +5,9 @@ published: true
 
 <br>
 
-**## OFFICE**
+##OFFICE##
 
-Stuart A. Scott, PhD   
+Stuart A. SCOTT, PhD   
 Department of Genetics and Genomic Sciences   
 Icahn School of Medicine at Mount Sinai  
 Atran Berg Laboratory Building  
@@ -18,9 +18,9 @@ Tel: 212-241-3780
 [stuart.scott@mssm.edu](mailto:stuart.scott@mssm.edu)  
 
 
-**## RESEARCH LABORATORY**
+##RESEARCH LABORATORY##
 
-Stuart A. Scott, PhD  
+Stuart A. SCOTT, PhD  
 Department of Genetics and Genomic Sciences  
 Icahn School of Medicine at Mount Sinai  
 Icahn Medical Institute  
