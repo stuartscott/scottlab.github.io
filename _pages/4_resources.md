@@ -1,17 +1,19 @@
 ---
 title: Resources
+published: true
 ---
 
 <br>
 
-###HiTMAP - High Throughput Methylation Analysis Program###
+##HiTMAP: High Throughput Methylation Analysis Program##
 
-In friendship diminution instrument so. Son sure paid door with say them. Two among sir sorry men court. Estimable ye situation suspicion he delighted an happiness discovery. Fact are size cold why had part. If believing or sweetness otherwise in we forfeited. Tolerably an unwilling arranging of determine. Beyond rather sooner so if up wishes or.
+To address the need for a stand-alone program capable of analyzing data from targeted bisulfite sequencing technologies, we developed HiTMAP: a High Throughput Methylation Analysis Program for bisulfite sequencing data.  HiTMAP is a comprehensive web tool that takes raw amplicon bisulfite sequence data and demultiplexes against sample barcodes, aligns sequencing reads to _in silico_ converted genomic reference sequences, quantitates CpG methylation levels, and exports resulting methylation data for both individual CpG sites and amplicon regions.  The user-facing side of HiTMAP provides an online interface for uploading raw sequence and reference files, setting alignment and methylation quantitation parameters, and for retrieving and saving analysis output data and result figures.  HiTMAP eliminates the need for manual data manipulation, local computational resources and expertise, and provides an efficient mechanism to measure CpG methylation from high-throughput next-generation bisulfite sequencing data.
 
 [Visit Page](/hitmap)
 
-###Python Script###
+<br>
+##Long-read Error Correction Python Script##
 
-Made last it seen went no just when of by. Occasional entreaties comparison me difficulty so themselves. At brother inquiry of offices without do my service. As particular to companions at sentiments. Weather however luckily enquire so certain do. Aware did stood was day under ask. Dearest affixed enquire on explain opinion he. Reached who the mrs joy offices pleased. Towards did colonel article any parties.
+XXX
 
 [Download](/scripts)
