@@ -1,7 +1,10 @@
 ---
 title: Positions
+published: true
 ---
 
-###In friendship diminution instrument so.###
+<br>
 
-Son sure paid door with say them. Two among sir sorry men court. Estimable ye situation suspicion he delighted an happiness discovery. Fact are size cold why had part. If believing or sweetness otherwise in we forfeited. Tolerably an unwilling arranging of determine. Beyond rather sooner so if up wishes or. 
+Unfortunately there are currently no openings for graduate students or postdoctoral fellows in the laboratory.  However, we are happy to endorse any scholarship applications for external funding for applicants, particularly those with shared research interests in genetics and genomics. 
+
+Summer students, international rotation students, and undergraduate students with independent funding or who are interested in volunteering are always welcome to enquire about potential opportunities.  If that is you, please email your updated CV directly and include a summary of your goals, research interests, and time-line.
