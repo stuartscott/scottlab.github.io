@@ -25,12 +25,10 @@ Tel: 212-241-3780
 
 <br>
 
-Stuart A. SCOTT, PhD  
-Department of Genetics and Genomic Sciences  
-Icahn School of Medicine at Mount Sinai  
+Department of Genetics and Genomic Sciences   
+Icahn School of Medicine at Mount Sinai 
 Icahn Medical Institute  
 1425 Madison Avenue  
 14th Floor, Room 14-52D  
 New York, NY 10029   
 Tel: 212-659-6727 
-[stuart.scott@mssm.edu](mailto:stuart.scott@mssm.edu)
