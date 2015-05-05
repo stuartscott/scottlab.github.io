@@ -7,6 +7,8 @@ published: true
 
 ##OFFICE##
 
+<br>
+
 Stuart A. SCOTT, PhD   
 Department of Genetics and Genomic Sciences   
 Icahn School of Medicine at Mount Sinai  
@@ -20,6 +22,8 @@ Tel: 212-241-3780
 <br>
 
 ##RESEARCH LABORATORY##
+
+<br>
 
 Stuart A. SCOTT, PhD  
 Department of Genetics and Genomic Sciences  
