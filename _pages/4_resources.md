@@ -13,7 +13,7 @@ To address the need for a stand-alone program capable of analyzing data from tar
 
 <br>
 
-##Long-read Error Correction Python Script##
+##Long-read Error Correction##
 
 XXX
 
