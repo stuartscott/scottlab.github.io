@@ -7,7 +7,9 @@ published: true
 
 ## OFFICE  
 
-**Stuart A. SCOTT, PhD **  
+<br>
+
+**Stuart A. SCOTT, PhD** 
 Department of Genetics and Genomic Sciences   
 Icahn School of Medicine at Mount Sinai  
 Atran Berg Laboratory Building  
