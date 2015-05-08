@@ -19,7 +19,11 @@ New York, NY 10029
 Tel: 212-241-3780  
 [stuart.scott@mssm.edu](mailto:stuart.scott@mssm.edu)  
 
+<br>
+
 ## RESEARCH LABORATORY  
+
+<br>
 
 Department of Genetics and Genomic Sciences   
 Icahn School of Medicine at Mount Sinai 
