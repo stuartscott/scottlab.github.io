@@ -14,6 +14,7 @@ Stuart Scott got his PhD from the University of Saskatchewan, Canada, under the 
 Yao Yang got his PhD in Biomedical Engineering from Southeast University, Nanjing, China, before joining the Scott lab in 2011 as a postdoctoral fellow.  His primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in the fields of epigenomics and pharmacogenomics.  Most recently, he developed **SMRT-BS**, a quantitative and multiplexed DNA methylation analysis strategy using Pacific Biosciences long-read sequencing.  In addition to other collaborative discovery projects in multi-ethnic epigenomic profiling and population pharmacogenomics, Dr. Yang recently developed a novel variation calling pipeline for long-read amplicon sequencing, initially being validated on the highly polymorphic drug metabolism gene _CPY2D6_.
 
 **Benjamin S. PULLMAN, BS**  
+
 XXX
 
 **Irene L. FENG**  
