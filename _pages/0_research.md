@@ -9,17 +9,25 @@ The Scott Laboratory acknowledges the continued collaboration with colleagues in
 
 Research support has been provided by a [KL2 Faculty Scholar Award](http://icahn.mssm.edu/research/institutes/institutes-for-clinical-and-translational-sciences/education-and-career-development/kl2-faculty-scholars-awards) from the [Conduits Program at Mount Sinai](http://icahn.mssm.edu/research/institutes/institutes-for-clinical-and-translational-sciences), a [K23 Translational Scholar Career Award in Pharmacogenomics and Personalized Medicine](http://grants.nih.gov/grants/guide/pa-files/PA-11-009.html) from the [NIH/NIGMS](http://www.nigms.nih.gov/Pages/default.aspx) and [Pharmacogenomics Research Network (PGRN)](http://pgrn.org/display/pgrnwebsite/PGRN+Home), and through ongoing and productive collaborations with interested biotechnology companies.  
 
-## PHARMACOGENETICS AND PHARMACOGENOMICS  
+<br>
+
+## PHARMACOGENETICS AND PHARMACOGENOMICS
 
 A major focus of the laboratory is studying genetic determinants of drug response variability, with ongoing collaborative research projects on cardiovascular pharmacogenomics, multi-ethnic pharmacogenetic allele discovery and population profiling, and the development of next-generation sequencing methods for pharmacogenomic research and clinical testing. Our group has made novel discoveries with anticoagulant and antiplatelet pharmacogenetics, characterized several novel _CYP450_ alleles in various ethnic and racial groups, and participated in the NHLBI-supported COAG warfarin pharmacogenetics trial as a clinical site.  We are currently utilizing exome and/or genome sequencing to identify variants implicated in antiplatelet response variability as well as novel pharmacogenomic variant discovery in unique ethnic subpopulations.  In collaboration with next-generation sequencing companies, second and third generation high-throughput sequencing chemistries are being compared to interrogate pharmacogenomic gene panels.  In addition, together with the [Institute for Personalized Medicine (IPM)](http://icahn.mssm.edu/research/institutes/ipm) at Mount Sinai, research projects are in development to interrogate the [BioMe biobank](http://icahn.mssm.edu/research/institutes/ipm/programs/biome-biobank) and patient electronic health records for pharmacogenomic discovery.  
+
+<br>
 
 ##  PERSONALIZED MEDICINE AND IMPLEMENTATION  
 
 Translating pharmacogenetic discovery to clinical implementation is an ongoing interest in the laboratory.  We are members of the [Clinical Pharmacogenetics Implementation Consortium (CPIC)](https://www.pharmgkb.org/page/cpic), participating in authoring guidelines for pharmacogenetic-based drug therapy and other related initiatives.  An interdisciplinary group at Mount Sinai is continually assessing the evidence of gene/drug response associations and the potential clinical utility of pharmacogenetic-guided therapy.  As such, Dr. Scott is a Co-Investigator of the [Institute for Personalized Medicine's (IPM)-PGx and eMERGE-PGx programs](http://icahn.mssm.edu/research/institutes/ipm/programs/translational-initiatives-for-pharmacogenomics-tip) by providing expertise in clinical genetics and implementing clinical pharmacogenetic testing at Mount Sinai.  Led by [Dr. Aniwaa Owusu Obeng](http://www.mountsinai.org/profiles/aniwaa-owusu-obeng), the clinical pharmacogenetics implementation projects at IPM are preemptively genotyping a panel of pharmacogenetic variants through the [Mount Sinai Genetic Testing Laboratory (MGTL)](http://icahn.mssm.edu/departments-and-institutes/genomics/genetic-testing) among prospectively enrolled patients at selected Mount Sinai clinics as well as patients enrolled in the BioMe biobank.  This program seeks to develop process best practices for successful translation of pharmacogenomics and personalized medicine discoveries into clinical practice.  
 
+<br>
+
 ## EPIGENETICS AND EPIGENOMICS  
 
 Another area of focus in the laboratory is the study of epigenetic DNA modifications and their role in disease pathogenesis.  Previous studies investigated promoter hypermethylation of mismatch repair and cell cycle genes implicated in leukemia pathogenesis; however, current efforts are aimed at studying germline epigenetic susceptibility to other common diseases and drug response phenotypes.  Additionally, we are interested in DNA methylation detection technologies, including microarray and next-generation sequencing chemistries.  Our group recently developed single-molecule real-time bisulfite sequencing (SMRT-BS), which is a novel quantitative and multiplexed bisulfite sequencing method for targeted CpG methylation analysis that employs the long read lengths from Pacific Biosciences third-generation sequencing.  To facilitate the bioinformatic analysis of amplicon bisulfite next-generation sequencing, we are now in the process of launching **HiTMAP: a High Throughput Methylation Analysis Program** for targeted bisulfite sequencing analyses.  
+
+<br>
 
 ## CLINICAL LABORATORY GENETICS  
 
