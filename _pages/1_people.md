@@ -29,6 +29,8 @@ Irene Feng is an undergraduate student at Dartmouth College doing a Bachelor of 
 
 ## LABORATORY ALUMNI  
 
+<br>
+
 **Jeffrey SLOAD**  
 
 Jeff Sload initially volunteered in the Scott lab in 2012 in conjunction with the Authentic Science Research (ASR) program at Darien High School, which aimed at getting high school students first-hand scientific research experience.  Following completion of the program and graduation from Darien High School in 2013, he continued working in the lab on cardiovascular pharmacogenomics projects as a summer student.   He currently is studying Biology at Williams College and enjoys ultimate frisbee, jazz trombone, and the New York Rangers.  

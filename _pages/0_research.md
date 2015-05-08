@@ -33,8 +33,6 @@ Translating pharmacogenetic discovery to clinical implementation is an ongoing i
 
 Another area of focus in the laboratory is the study of epigenetic DNA modifications and their role in disease pathogenesis.  Previous studies investigated promoter hypermethylation of mismatch repair and cell cycle genes implicated in leukemia pathogenesis; however, current efforts are aimed at studying germline epigenetic susceptibility to other common diseases and drug response phenotypes.  Additionally, we are interested in DNA methylation detection technologies, including microarray and next-generation sequencing chemistries.  Our group recently developed **single-molecule real-time bisulfite sequencing (SMRT-BS)**, which is a novel quantitative and multiplexed bisulfite sequencing method for targeted CpG methylation analysis that employs the long-read lengths from Pacific Biosciences third-generation sequencing.  To facilitate the bioinformatic analysis of amplicon bisulfite next-generation sequencing, we are now in the process of launching **HiTMAP: a High Throughput Methylation Analysis Program** for open access targeted bisulfite sequencing analyses.  
 
-<br>
-
 ## CLINICAL LABORATORY GENETICS  
 
 <br>
