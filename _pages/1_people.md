@@ -35,4 +35,4 @@ Suparna Martis got her PhD form the University of Delhi in Peptide Chemistry and
 
 **Manishkumar PATEL, MS**  
 
-Manishkumar Patel was a graduate student at the University of New Haven, CT, who did his MS thesis research project with Dr. Scott in 2009 entitled: ‘Warfarin Pharmacogenetics: Copy-Number Variation and Novel _CYP2C9_ Alleles in a Multi-ethnic Population.’  Following successful completion of his Master’s of Science (MS) degree, he joined Mount Sinai as a Research Associate in a laboratory within the Department of Hematology & Medical Oncology.
+Manishkumar Patel was a graduate student at the University of New Haven, CT, who did his MS thesis research project with Dr. Scott in 2009 entitled: ‘Warfarin Pharmacogenetics: Copy-Number Variation and Novel _CYP2C9_ Alleles in a Multi-ethnic Population.’  Following successful completion of his MS degree, he joined Mount Sinai as a Research Associate in a laboratory within the Department of Hematology & Medical Oncology.
