@@ -9,18 +9,18 @@ The Scott Laboratory acknowledges the continued collaboration with colleagues in
 
 Research support has been provided by a [KL2 Faculty Scholar Award](http://icahn.mssm.edu/research/institutes/institutes-for-clinical-and-translational-sciences/education-and-career-development/kl2-faculty-scholars-awards) from the [Conduits Program at Mount Sinai](http://icahn.mssm.edu/research/institutes/institutes-for-clinical-and-translational-sciences), a [K23 Translational Scholar Career Award in Pharmacogenomics and Personalized Medicine](http://grants.nih.gov/grants/guide/pa-files/PA-11-009.html) from the [NIH/NIGMS](http://www.nigms.nih.gov/Pages/default.aspx) and [Pharmacogenomics Research Network (PGRN)](http://pgrn.org/display/pgrnwebsite/PGRN+Home), and through ongoing and productive collaborations with interested biotechnology companies.  
 
-## **PHARMACOGENETICS AND PHARMACOGENOMICS**
+## PHARMACOGENETICS AND PHARMACOGENOMICS  
+
+A major focus of the laboratory is studying genetic determinants of drug response variability, with ongoing collaborative research projects on cardiovascular pharmacogenomics, multi-ethnic pharmacogenetic allele discovery and population profiling, and the development of next-generation sequencing methods for pharmacogenomic research and clinical testing. Our group has made novel discoveries with anticoagulant and antiplatelet pharmacogenetics, characterized several novel CYP450 alleles in various ethnic and racial groups, and participated in the NHLBI-supported COAG warfarin pharmacogenetics trial as a clinical site.  We are currently utilizing exome and/or genome sequencing to identify variants implicated in antiplatelet response variability as well as novel pharmacogenomic variant discovery in unique ethnic subpopulations.  In collaboration with next-generation sequencing companies, second and third generation high-throughput sequencing chemistries are being compared to interrogate pharmacogenomic gene panels.  In addition, together with the Institute for Personalized Medicine (IPM) at Mount Sinai, research projects are in development to interrogate the BioMe biobank and patient electronic health records for pharmacogenomic discovery.  
+
+##  PERSONALIZED MEDICINE AND IMPLEMENTATION
 
 XXX
 
-##  **PERSONALIZED MEDICINE AND IMPLEMENTATION**
+## EPIGENETICS AND EPIGENOMICS
 
 XXX
 
-## **EPIGENETICS AND EPIGENOMICS**
-
-XXX
-
-## **CLINICAL LABORATORY GENETICS**
+## CLINICAL LABORATORY GENETICS
 
 XXX
