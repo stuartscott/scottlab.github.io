@@ -14,7 +14,8 @@ XXX
 XXX
 
 **Irene L. FENG**  
-XXX
+
+Irene Feng is an undergraduate student at Dartmouth College doing a Bachelor of Arts (BA) in Computer Science/Biology.  She has been volunteering in the laboratory since February 2015, and under the direction of Ben Pullman, has focused her time on programming the user interface of our **High Throughput Methylation Analysis Program (HiTMAP)** for amplicon bisulfite sequencing data analysis.  
 
 **Jeffrey SLOAD**  
 XXX
