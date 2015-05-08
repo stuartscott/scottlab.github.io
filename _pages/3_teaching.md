@@ -24,5 +24,5 @@ Clinical Research Training Program; _Lecturer_.
 2013-present: **[Introduction to Human Genome Sequencing, BSR2401](https://sap.mssm.edu/elective/courses/descript2.cfm?cnum=278)**  
 Elective course; _Lecturer_.  
 
-2013-present: **[Practical Analysis of Your Human Genome,BSR6402](https://sap.mssm.edu/elective/courses/descript2.cfm?cnum=279)**  
+2013-present: **[Practical Analysis of Your Human Genome, BSR6402](https://sap.mssm.edu/elective/courses/descript2.cfm?cnum=279)**  
 Elective course; _Lecturer_.

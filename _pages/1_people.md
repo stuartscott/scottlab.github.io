@@ -11,7 +11,7 @@ Stuart Scott got his PhD from the University of Saskatchewan, Canada, under the 
 
 **Yao YANG, PhD**  
 
-XXX
+Yao Yang got his PhD in Biomedical Engineering from Southeast University, Nanjing, China, before joining the Scott lab in 2011 as a postdoctoral fellow.  His primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in the fields of epigenomics and pharmacogenomics.  Most recently, he developed **SMRT-BS**, a quantitative and multiplexed DNA methylation analysis strategy using Pacific Biosciences long-read sequencing.  In addition to other collaborative discovery projects in multi-ethnic epigenomic profiling and population pharmacogenomics, Dr. Yang recently developed a novel variation calling pipeline for long-read amplicon sequencing, initially being validated on the highly polymorphic drug metabolism gene _CPY2D6_.
 
 **Benjamin S. PULLMAN, BS**  
 
@@ -35,4 +35,4 @@ Suparna Martis got her PhD form the University of Delhi in Peptide Chemistry and
 
 **Manishkumar PATEL, MS**  
 
-Manishkumar Patel was a graduate student at the University of New Haven, CT, who did his thesis research project with Dr. Scott in 2009 entitled: ‘Warfarin Pharmacogenetics: Copy-Number Variation and Novel _CYP2C9_ Alleles in a Multi-ethnic Population.’  Following successful completion of his Master’s of Science (MS) degree, he joined Mount Sinai as a Research Associate in a laboratory within the Department of Hematology & Medical Oncology.
+Manishkumar Patel was a graduate student at the University of New Haven, CT, who did his MS thesis research project with Dr. Scott in 2009 entitled: ‘Warfarin Pharmacogenetics: Copy-Number Variation and Novel _CYP2C9_ Alleles in a Multi-ethnic Population.’  Following successful completion of his MS degree, he joined Mount Sinai as a Research Associate in a laboratory within the Department of Hematology & Medical Oncology.
