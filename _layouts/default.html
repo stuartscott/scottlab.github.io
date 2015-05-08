@@ -8,6 +8,8 @@
     {% for page in site.pages offset:3%}
         {% if page.title == "Publications" %}
             {% include publications.html %}
+        {% elsif page.title == "Contact"%}
+            {% include contactnew.html %}
         {% else %}
             {% include one_col_content.html %}
         {% endif%}
