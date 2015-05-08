@@ -7,6 +7,8 @@ published: true
 
 **2015**  
 
+Hicks JK, Bishop JR, Sangkuhl K, Müller DJ, Ji Y, Leckband SG, Leeder JS, Graham RL, Chiulli DL, LLerena A, Skaar TC, Scott SA, Klein TE, Caudle KE, Gaedigk A. Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2D6 and CYP2C19 genotypes and dosing of selective serotonin reuptake inhibitors. Clin Pharmacol Ther, in press.  
+
 Yang Y, Sebra R, Pullman B, Peter I, Desnick RJ, Geyer CR, DeCoteau JF, Scott SA. Quantitative and multiplexed DNA methylation analysis using long-read single-molecule real-time bisulfite sequencing (SMRT-BS). BMC Genomics, 2015 May 6;16:350.
 
 **2014**  
