@@ -5,7 +5,7 @@ published: true
 
 <br>
 
-## Courses taught at the Icahn School of Medicine at Mount Sinai:
+## Courses taught at the Icahn School of Medicine at Mount Sinai:  
 
 2010-present: **Medical Genetics**  
 1st year genetic counseling students and clinical genetics fellows; _Lecturer_.
