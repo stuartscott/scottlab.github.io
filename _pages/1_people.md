@@ -13,7 +13,7 @@ Stuart Scott got his PhD from the University of Saskatchewan, Canada, under the 
 
 **Yao YANG, PhD**  
 
-Yao Yang got his PhD in Biomedical Engineering from Southeast University, Nanjing, China, before joining the Scott lab in 2011 as a postdoctoral fellow.  His primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in the fields of epigenomics and pharmacogenomics.  Most recently, he developed **SMRT-BS**, a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences long-read sequencing.  In addition to other collaborative research projects on multi-ethnic epigenomic profiling and population pharmacogenomics, Dr. Yang recently developed a novel variant calling pipeline for long-read amplicon sequencing, initially being validated on the highly polymorphic drug metabolism gene _CYP2D6_.
+Yao Yang got his PhD in Biomedical Engineering from Southeast University, Nanjing, China, before joining the Scott lab as a postdoctoral fellow in 2011.  His primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in the fields of epigenomics and pharmacogenomics.  Most recently, he developed **SMRT-BS**, a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences long-read sequencing.  In addition to other collaborative research projects on multi-ethnic epigenomic profiling and population pharmacogenomics, Dr. Yang recently developed a novel variant calling pipeline for long-read amplicon sequencing, initially being validated on the highly polymorphic drug metabolism gene _CYP2D6_.
 
 <br>
 
@@ -37,7 +37,7 @@ Jeff Sload initially volunteered in the Scott lab in 2012 in conjunction with th
 
 **Suparna MARTIS, PhD**  
 
-Suparna Martis got her PhD form the University of Delhi in Peptide Chemistry and subsequently pursued postdoctoral research at the Institute of Genomics & Integrative Biology (CSIR) and several Senior Scientist positions at genetics/genomics companies in Asia and North America, eventually landing at Mount Sinai in 2010.  With a strong background in population pharmacogenetics, Dr. Martis lead a number of projects in the Scott Lab on multi-ethnic pharmacogenetic allele profiling and discovered several novel _CYP450_ variant alleles, including copy-number variants.  
+Suparna Martis got her PhD form the University of Delhi in Peptide Chemistry and subsequently pursued postdoctoral research at the Institute of Genomics & Integrative Biology (CSIR) and several Senior Scientist positions at genetics/genomics companies in Asia and North America, eventually landing at Mount Sinai as a postdoctoral fellow in 2010.  With a strong background in population pharmacogenetics, Dr. Martis lead a number of projects in the Scott Lab on multi-ethnic pharmacogenetic allele profiling and discovered several novel _CYP450_ variant alleles, including copy-number variants.  
 
 <br>
 
