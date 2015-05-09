@@ -1,26 +1,3 @@
-- name   : "Quantitative and multiplexed DNA methylation analysis using long-read single-molecule real-time bisulfite sequencing (SMRT-BS)"
-  journal: "BMC Genomics"
-  year   : 2015
-  authors:
-   - "Yao Yang"
-   - "Robert Sebra"
-   - "Benjamin Pullman"
-   - "Wanqiong Qiao"
-   - "Inga Peter"
-   - "Robert J Desnick"
-   - "Clarence R Geyer"
-   - "John F DeCoteau"
-   - "Stuart A Scott"
-- name: "Quantitative and multiplexed DNA methylation analysis using long-read single-molecule real-time bisulfite sequencing (SMRT-BS)"
-  journal: "BMC Genomics"
-  year: 2015
-  authors:
-   - "Yao Yang"
-   - "Robert Sebra"
-   - "Benjamin Pullman"
-   - "Wanqiong Qiao"
-   - "Inga Peter"
-   - "Robert J Desnick"
-   - "Clarence R Geyer"
-   - "John F DeCoteau"
-   - "Stuart A Scott"
+all:
+- year: 2015
+  citation: 
