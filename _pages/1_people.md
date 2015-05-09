@@ -17,9 +17,9 @@ Yao Yang got his PhD in Biomedical Engineering from Southeast University, Nanjin
 
 <br>
 
-**Benjamin S. PULLMAN, BS**  
+**Benjamin S. PULLMAN, BA**  
 
-XXX
+Ben Pullman completed his Bachelor of Arts (BA) in Computer Science and Music at Amherst College in 2013, which included an honors thesis entitled Machine Learning Methods for Detecting Code Obfuscation.  He has been volunteering in the Scott Lab since 2014 while working as a developer for the social campaign around the film _Girl Rising_ and applying for graduate school.  During this time he has spearheaded our **High Throughput Methylation Analysis Program (HiTMAP)** project, which is a quantitative online tool for amplicon bisulfite sequencing DNA methylation analyses.  Although he will always be involved with HiTMAP, in August 2015 he will begin his Ph.D. program in Computer Science and Engineering at the University of California, San Diego (UCSD) in the Center for Computational Mass Spectrometry.
 
 **Irene L. FENG**  
 
