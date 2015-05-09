@@ -35,7 +35,10 @@
                     return !pos || item != ary[pos - 1];
                 })
             }
-            var indexedYears = uniq(allYears);      
+            var indexedYears = uniq(allYears);
+            indexedYears.pop();
+            indexedYears.push("Pre-2010")
+            console.log(indexedYears)      
             var mySwiper = new Swiper ('.swiper-container', {
                 // Optional parameters
                 loop: true,
@@ -53,10 +56,10 @@
                         //console.log(swiper.slides[i])
                         slideHeights.push($(swiper.slides[i]).height())
                     }
-                    $('.swiper-container').height(slideHeights[1]+20)
+                    $('.swiper-container').height(slideHeights[0]+40)
                 },
                 onSlideChangeStart: function(swiper){
-                    $('.swiper-container').height(slideHeights[swiper.activeIndex-1]+20)
+                    $('.swiper-container').height(slideHeights[swiper.activeIndex-1]+40)
                 }
             });        
     </script>

@@ -19,19 +19,16 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                <div class="swiper-container" id="pubs">
+                <div class="swiper-container">
                     <div class="swiper-wrapper">
-                        {% assign sorted_publications = (site.data.publications.all | sort: 'year') %}
-                        {% for publication in sorted_publications reversed %}
-                          {% capture currentyear %}{{publication.year}}{% endcapture %}
-                          {% if currentyear != year %}
-                            {% unless forloop.first %}</div></div>{% endunless %}
-                            <div class="swiper-slide" style="padding-bottom: 20px;"><div style="publication"><h2>{{ currentyear }}</h2><br>
-                            {% capture year %}{{currentyear}}{% endcapture %} 
-                          {% endif %}
-                            {{ publication.name }}, {{ publication.year }}<br><br>
+                        {% for publication_by_year in site.data.publications.all %}
+                            <div class="swiper-slide" style="padding-bottom: 60px;"><div style="publication">
+                            <h2>{% if publication_by_year.year == 2009 %}Pre-2010{% else %}{{ publication_by_year.year }}{% endif %}</h2><br>
+                            {% for publication in publication_by_year.publications %}
+                                {{ publication | replace:'Scott SA','<b><u>Scott SA</u></b>' }}<br><br>
+                            {% endfor %}
+                            </div></div>
                         {% endfor %}
-                        </div></div>
                     </div>
                     <div class="swiper-pagination"></div>
                 </div>
