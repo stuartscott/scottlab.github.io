@@ -25,7 +25,7 @@
                             <div class="swiper-slide" style="padding-bottom: 60px;"><div style="publication">
                             <h2>{% if publication_by_year.year == 2009 %}Pre-2010{% else %}{{ publication_by_year.year }}{% endif %}</h2><br>
                             {% for publication in publication_by_year.publications %}
-                                {{ publication | replace:'Scott SA','<b><u>Scott SA</u></b>' }}<br><br>
+                                {{ publication.citation | markdownify | replace:'Scott SA','<b><u>Scott SA</u></b>' }}
                             {% endfor %}
                             </div></div>
                         {% endfor %}
