@@ -21,6 +21,8 @@ Yao Yang got his PhD in Biomedical Engineering from Southeast University, Nanjin
 
 Ben Pullman completed his Bachelor of Arts (BA) in Computer Science and Music at Amherst College in 2013, which included an honors thesis entitled Machine Learning Methods for Detecting Code Obfuscation.  He has been volunteering in the Scott Lab since 2014 while working as a developer for the social campaign around the film _Girl Rising_ and applying for graduate school.  During this time he has spearheaded our **High Throughput Methylation Analysis Program (HiTMAP)** project, which is a quantitative online tool for amplicon bisulfite sequencing DNA methylation analyses.  Although he will always be involved with HiTMAP, in August 2015 he will begin his Ph.D. program in Computer Science and Engineering at the University of California, San Diego (UCSD) in the Center for Computational Mass Spectrometry.
 
+<br>
+
 **Irene L. FENG**  
 
 Irene Feng is an undergraduate student at Dartmouth College doing a Bachelor of Arts (BA) in Computer Science/Biology.  She has been volunteering in the laboratory since February 2015, and under the direction of Ben Pullman, has focused her time on programming the user interface of our **High Throughput Methylation Analysis Program (HiTMAP)** for amplicon bisulfite sequencing data analysis.  
