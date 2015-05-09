@@ -19,3 +19,44 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/freelancer.js" }}"></script>
+
+    <!-- Swiper -->
+    <script>
+            var json_publications = {{site.data.publications | jsonify}}
+            var publications = json_publications['all']
+            var allYears = []
+            var slideHeights = []
+            for (publication in publications){
+                allYears.push(parseInt(publications[publication]['year']))
+            }
+            function uniq(a) {
+                //http://stackoverflow.com/questions/9229645/remove-duplicates-from-javascript-array
+                return a.sort().reverse().filter(function(item, pos, ary) {
+                    return !pos || item != ary[pos - 1];
+                })
+            }
+            var indexedYears = uniq(allYears);      
+            var mySwiper = new Swiper ('.swiper-container', {
+                // Optional parameters
+                loop: true,
+    
+                // If we need pagination
+                pagination: '.swiper-pagination',
+                paginationClickable: true,
+                paginationBulletRender: function (index, className) {
+                    return '<span class="' + className + '">' + indexedYears[index] + '</span>';
+                },
+                onInit: function(swiper){
+                    var length = swiper.slides.length - 2
+                    for (var i = 1; i <= length; i++){
+                        console.log($(swiper.slides[i]).height())
+                        //console.log(swiper.slides[i])
+                        slideHeights.push($(swiper.slides[i]).height())
+                    }
+                    $('.swiper-container').height(slideHeights[1]+20)
+                },
+                onSlideChangeStart: function(swiper){
+                    $('.swiper-container').height(slideHeights[swiper.activeIndex-1]+20)
+                }
+            });        
+    </script>
