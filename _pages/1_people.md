@@ -7,7 +7,7 @@ published: true
 
 **Stuart A. SCOTT, PhD**  
 
-Stuart Scott got his PhD from the University of Saskatchewan, Canada, under the mentorship of hematopathologist [Dr. John F. DeCoteau](http://www.medicine.usask.ca/pathology/people/faculty/Full%20Time%20Faculty/DeCoteau%20John.php).  His interest in medical genetics and molecular pathology prompted postdoctoral [American Board of Medical Genetics and Genomics (ABMGG)](http://www.abmgg.org/) training in Clinical Molecular Genetics and Clinical Cytogenetics at the [Mount Sinai Genetic Testing Laboratory (MGTL)](http://icahn.mssm.edu/departments-and-institutes/genomics/genetic-testing) and Board certification in both specialties.  In the MGTL he is involved in high-complexity clinical molecular testing, including whole-genome array-based comparative genomic hybridization, whole-exome sequencing, and pharmacogenetic testing.  As above, Dr. Scott’s research interests are focused on translational molecular biology, particularly in the areas of pharmacogenomics, epigenomics and cytogenomics, and he considers himself fortunate to work with the people that he does.  
+Stuart Scott got his PhD from the University of Saskatchewan, Canada, under the mentorship of hematopathologist [**Dr. John F. DeCoteau**](http://www.medicine.usask.ca/pathology/people/faculty/Full%20Time%20Faculty/DeCoteau%20John.php).  His interest in medical genetics and molecular pathology prompted postdoctoral [**American Board of Medical Genetics and Genomics (ABMGG)**](http://www.abmgg.org/) training in Clinical Molecular Genetics and Clinical Cytogenetics at the [**Mount Sinai Genetic Testing Laboratory (MGTL)**](http://icahn.mssm.edu/departments-and-institutes/genomics/genetic-testing) and Board certification in both specialties.  In the MGTL he is involved in high-complexity clinical molecular testing, including whole-genome array-based comparative genomic hybridization, whole-exome sequencing, and pharmacogenetic testing.  As above, Dr. Scott’s research interests are focused on translational molecular biology, particularly in the areas of pharmacogenomics, epigenomics and cytogenomics, and he considers himself fortunate to work with the people that he does.  
 
 <br>
 
@@ -20,6 +20,16 @@ Yao Yang got his PhD in Biomedical Engineering from Southeast University, Nanjin
 **Benjamin S. PULLMAN, BA**  
 
 Ben Pullman completed his Bachelor of Arts (BA) in Computer Science and Music at Amherst College in 2013, which included an honors thesis entitled Machine Learning Methods for Detecting Code Obfuscation.  He has been volunteering in the Scott Lab since 2014 while working as a developer for the social campaign around the film _Girl Rising_ and applying for graduate school.  During this time he has spearheaded our **High Throughput Methylation Analysis Program (HiTMAP)** project, which is a quantitative online tool for amplicon bisulfite sequencing DNA methylation analyses.  Although he will always be involved with HiTMAP, in August 2015 he will begin his Ph.D. program in Computer Science and Engineering at the University of California, San Diego (UCSD) in the Center for Computational Mass Spectrometry.
+
+<br>
+
+## PART TIMERS  
+
+<br>
+
+**Hetanshi NAIK, MS, CGC**
+
+XXX.
 
 <br>
 
