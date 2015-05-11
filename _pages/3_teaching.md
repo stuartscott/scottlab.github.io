@@ -20,7 +20,7 @@ published: true
 <br>
 
 2011-present: **[Translational Genomics, BSR2400](http://fusion.mssm.edu/gradschool/descript.cfm?cname=236)**  
-Graduate course; _Co-Director, Lecturer_. **2015 Syllabus**  
+Graduate course; _Co-Director with [**Dr. Andrew Sharp**](http://www.mountsinai.org/profiles/andrew-j-null-sharp), Lecturer_. **2015 Syllabus**  
 
 <br>
 
