@@ -17,6 +17,14 @@ p.small {
     font-size: 12px;
 }
 
+p strong{
+    font-weight: 700;
+}
+
+p b{
+    font-weight: 700;
+}
+
 a,
 a:hover,
 a:focus,
@@ -111,8 +119,10 @@ header .intro-text .name {
 }
 
 header .intro-text .skills {
-    font-size: 1.25em;
-    font-weight: 300;
+    font-family: Roboto,sans-serif;
+    line-height: 1.2;
+    font-size: 1em;
+    font-weight: 400;
 }
 
 @media(min-width:640px) {

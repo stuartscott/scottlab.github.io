@@ -20,17 +20,18 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                 <div class="swiper-container">
+                    <div class="swiper-pagination"></div>
+                    <br><br>
                     <div class="swiper-wrapper">
                         {% for publication_by_year in site.data.publications.all %}
                             <div class="swiper-slide" style="padding-bottom: 60px;"><div style="publication">
                             <h2>{% if publication_by_year.year == 2009 %}Pre-2010{% else %}{{ publication_by_year.year }}{% endif %}</h2><br>
                             {% for publication in publication_by_year.publications %}
-                                {{ publication.citation | markdownify | replace:'Scott SA','<b><u>Scott SA</u></b>' }}
+                                <p>{{ publication.citation | replace:'Scott SA','<b><u>Scott SA</u></b>' }}</p>
                             {% endfor %}
                             </div></div>
                         {% endfor %}
                     </div>
-                    <div class="swiper-pagination"></div>
                 </div>
                 </div>
             </div>
