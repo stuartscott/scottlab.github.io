@@ -29,7 +29,7 @@ Ben Pullman completed his Bachelor of Arts (BA) in Computer Science and Music at
 
 **Hetanshi NAIK, MS, CGC**
 
-XXX.
+Hetanshi Naik completed her Masters of Science (MS) in Genetic Counseling at the Icahn School of Medicine at Mount Sinai in 2010 and currently is a Project Manager in [**Dr. Robert J. Desnick’s laboratory**](http://www.mountsinai.org/profiles/robert-j-desnick) where she is overseeing the NIH-supported Rare Disease Clinical Research Network’s Porphyrias Consortium.  In addition to pursuing her PhD in Clinical Research at Mount Sinai, Hetanshi is also a part-time research coordinator for a cardiovascular pharmacogenomics project with the Scott lab.
 
 <br>
 
