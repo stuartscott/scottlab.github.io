@@ -63,7 +63,6 @@ permalink: pretty
 
 # prose.io settings
 prose:
-  rooturl: '_data'
   siteurl: 'scottlab.github.io'
   media: 'img'
   ignore:
