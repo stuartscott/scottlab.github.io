@@ -5,21 +5,11 @@
     {% include nav.html %}
     {% include header.html %}
 
-    {% for page in site.pages offset:3%}
-        {% if page.title == "Publications" %}
-            {% include publications.html %}
-        {% elsif page.title == "Contact"%}
-            {% include contactnew.html %}
-        {% elsif page.title == "People" %}
-            {% include people.html %}
-        {% else %}
-            {% include one_col_content.html %}
-        {% endif%}
+    {% for section in site.sections %}
+        {% include {{section.template}} %}
     {% endfor %}
 
     {% include footer.html %}
-
-    {% include modals.html %}
     {% include js.html %}
     </body>
 </html>

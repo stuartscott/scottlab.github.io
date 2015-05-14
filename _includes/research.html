@@ -1,0 +1,28 @@
+<!-- Section -->
+    {% assign index_var = forloop.index | modulo:2 %}
+    {% include scroll_bumper.html %}
+
+    <section {% if index_var == 0 %} class="success" {% endif %} id="{{page.title | downcase}}-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h1>{{section.title}}</h1>
+                </div>
+            </div>
+            <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        {{site.data.research.overview | markdownify}}
+                    </div>
+                </div>
+            {% for topic in site.data.research.topics %}
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <br>
+                        <h2>{{topic.topic}}</h2>
+                        <br>
+                        {{topic.summary | markdownify}}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </section>

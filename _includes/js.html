@@ -22,7 +22,7 @@
 
     <!-- Swiper -->
     <script>
-            var publications = {{site.data.publications | jsonify}}['all']
+            var publications = {{site.data.publications | jsonify}}
             var years = []
             for (publication in publications){
                 years.push(publications[publication]['year'])
@@ -45,10 +45,10 @@
                         //console.log(swiper.slides[i])
                         slideHeights.push($(swiper.slides[i]).height())
                     }
-                    $('.swiper-wrapper').height(slideHeights[0] + 20)
+                    $('.swiper-wrapper').height(slideHeights[0] + 40)
                 },
                 onSlideChangeStart: function(swiper){
-                    $('.swiper-wrapper').height(slideHeights[swiper.activeIndex-1] + 20)
+                    $('.swiper-wrapper').height(slideHeights[swiper.activeIndex-1] + 40)
                 }
             });        
     </script>

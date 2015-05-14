@@ -18,9 +18,9 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    {% for page in site.pages offset:3 %}
+                    {% for section in site.sections %}
                     <li class="page-scroll">
-                        <a href="#{{page.title | downcase}}">{{page.title}}</a>
+                        <a href="#{{section.title | downcase}}">{{section.title}}</a>
                     </li>
                     {% endfor %}
                 </ul>

@@ -39,9 +39,24 @@ address:
   - line: New York, NY 10029-6574
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This site uses a modified version of Freelancer, a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+sections:
+  - title: Research
+    template: "research.html"
+  - title: People
+    template: "people.html"
+  - title: Publications
+    template: "publications.html"
+  - title: Teaching
+    template: "one_col_content.html"
+  - title: Resources
+    template: "one_col_content.html"
+  - title: Positions
+    template: "one_col_content.html"
+  - title: Contact
+    template: "contact.html"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-pages: ./_pages
