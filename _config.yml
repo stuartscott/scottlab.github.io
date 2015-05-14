@@ -60,3 +60,14 @@ sections:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# prose.io settings
+prose:
+  rooturl: '_data'
+  siteurl: 'scottlab.github.io'
+  media: 'img'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
