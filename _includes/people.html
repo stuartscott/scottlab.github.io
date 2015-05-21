@@ -12,7 +12,7 @@
             {% for group in site.data.people %}
                 {% unless group.group == "Current" %}
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
+                    <div class="col-lg-10 col-lg-offset-1">
                         <br>
                         <h2>{{group.group}}</h2>
                         <br>
@@ -21,21 +21,22 @@
                 {% endunless %}
                 {% for person in group.members %}
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
+                    <div class="col-lg-10 col-lg-offset-1">
                         <p><b>{{person.name}}</b></p>
                     </div>
                 </div>
                 <div class="row">
                     {% if person.picture %}
-                    <div class="col-lg-6 col-lg-offset-2">
+                    <div class="col-lg-2 col-lg-push-9 col-sm-3 col-sm-push-9 col-xs-3">
+                        <span style="width:100%; height: auto"><img src="./img/people/{{person.picture}}" style="width:100%; height: auto"></span>
+                        <br>
+                    </div>
+                    <div class="col-lg-8 col-lg-pull-2 col-lg-offset-1 col-sm-9 col-sm-pull-3">
                         {{person.bio | markdownify}}
                         <br>
                     </div>
-                    <div class="col-lg-2">
-                        <span style="width:100%; height: auto"><img src="./img/people/{{person.picture}}" style="width:100%; height: auto"></span>
-                    </div>
                     {% else %}
-                    <div class="col-lg-8 col-lg-offset-2">
+                    <div class="col-lg-10 col-lg-offset-1">
                         {{person.bio | markdownify}}
                         <br>
                     </div>

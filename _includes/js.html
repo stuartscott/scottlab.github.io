@@ -36,7 +36,11 @@
                 pagination: '.swiper-pagination',
                 paginationClickable: true,
                 paginationBulletRender: function (index, className) {
-                    return '<span class="' + className + '">' + years[index] + '</span>';
+                    if(years[index] != "PRE-2010"){
+                        return '<span class="' + className + '">' + years[index] + '</span>';
+                    }else{
+                        return '<span class="' + className + '">' + years[index] + '</span><br>';
+                    }
                 },
                 onInit: function(swiper){
                     var length = swiper.slides.length - 2
