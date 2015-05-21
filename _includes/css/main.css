@@ -114,14 +114,14 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Sintony,sans-serif;
-    font-size: 1.25em;
+    font-size: 2em;
     font-weight: 700;
 }
 
 header .intro-text .skills {
     font-family: Roboto,sans-serif;
     line-height: 1.2;
-    font-size: 1em;
+    font-size: 1.5em;
     font-weight: 400;
 }
 
@@ -191,7 +191,7 @@ header .intro-text .skills {
 }
 /*
 Hack to reduce menu size
-credit: http://www.bootply.com/120604
+credit:http://www.bootply.com/120604
 */
 
 @media (max-width: 1000px) {
