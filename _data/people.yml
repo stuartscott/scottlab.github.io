@@ -8,12 +8,13 @@
       picture: yaoyang.jpg
       bio: |
          Yao Yang got his PhD in Biomedical Engineering from Southeast University, Nanjing, China, before joining the Scott lab as a postdoctoral fellow in 2011.  His primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in the fields of epigenomics and pharmacogenomics.  Most recently, he developed [**SMRT-BS**](http://www.biomedcentral.com/1471-2164/16/350), a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences long-read sequencing.  In addition to other collaborative research projects on multi-ethnic epigenomic profiling and population pharmacogenomics, Dr. Yang recently developed a novel variant calling pipeline for long-read amplicon sequencing, initially being validated on the highly polymorphic drug metabolism gene _CYP2D6_.
+     
+- group: Part timers / Colleagues
+  members:
     - name: Benjamin S. PULLMAN, BA
       picture: benpullman.jpg
       bio: |
-         Ben Pullman completed his Bachelor of Arts (BA) in Computer Science and Music at Amherst College in 2013, which included an honors thesis entitled Machine Learning Methods for Detecting Code Obfuscation.  He has been volunteering in the Scott Lab since 2014 while working as a developer for the social campaign around the film _Girl Rising_ and applying for graduate school.  During this time he has spearheaded our **High Throughput Methylation Analysis Program (HiTMAP)** project, which is a quantitative online tool for amplicon bisulfite sequencing DNA methylation analyses.  Although he will always be involved with HiTMAP, in August 2015 he will begin his Ph.D. program in Computer Science and Engineering at the University of California, San Diego (UCSD) in the Center for Computational Mass Spectrometry. 
-- group: Part timers / Colleagues
-  members:
+         Ben Pullman completed his Bachelor of Arts (BA) in Computer Science and Music at Amherst College in 2013, including an honors thesis entitled Machine Learning Methods for Detecting Code Obfuscation.  He volunteered in the Scott Lab from 2014 to 2015 while working as a developer for the social campaign around the film _Girl Rising_.  During that time he spearheaded our **High Throughput Methylation Analysis Program (HiTMAP)** project, which is a quantitative online tool for amplicon bisulfite sequencing DNA methylation analyses.  Although he will always be involved with HiTMAP, he currently is pursuing a Ph.D. in Computer Science and Engineering at the University of California, San Diego (UCSD) in the Center for Computational Mass Spectrometry.
     - name: Hetanshi NAIK, MS, CGC
       picture: hetanshinaik.jpg
       bio: |
