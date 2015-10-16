@@ -5,7 +5,7 @@
 
     To address the need for a stand-alone program capable of analyzing data from targeted bisulfite sequencing technologies, we developed **[HiTMAP: a High Throughput Methylation Analysis Program](https://hitmap.stuartscottlab.org)** for bisulfite sequencing data.  HiTMAP is a comprehensive web tool that takes raw amplicon bisulfite sequence data and demultiplexes against sample barcodes, aligns sequencing reads to _in silico_ converted genomic reference sequences, quantitates CpG methylation levels, and exports resulting methylation data for both individual CpG sites and amplicon regions.  The user-facing side of HiTMAP provides an online interface for uploading raw sequence and reference files, setting alignment and methylation quantitation parameters, and for retrieving and saving analysis output data and result figures.  HiTMAP eliminates the need for manual data manipulation, local computational resources and expertise, and provides an efficient mechanism to measure CpG methylation from high-throughput next-generation bisulfite sequencing data.  
 
-    [**HiTMAP v0.9](https://hitmap.stuartscottlab.org)**
+    **[HiTMAP v0.9](https://hitmap.stuartscottlab.org)**
     
     Please note that the HiTMAP manuscript is currently in preparation.  Questions or comments can be sent [**here](mailto:stuart.scott@mssm.edu)**.
 
