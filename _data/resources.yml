@@ -23,7 +23,7 @@
 
     <br>
 
-    The CYP2D6 variant call format (VCF) Translator (v1.0) converts _CYP2D6_ sequence variants from human genome assembly GRCh37/hg19 coordinates to the M33388 and AY545216 GenBank reference sequence coordinates, which are more commonly used for star allele conversion by the [**Human Cytochrome P450 (CYP) Allele Nomenclature Database**](http://www.cypalleles.ki.se/cyp2d6.htm).  
+    The CYP2D6 variant call format (VCF) Translator (v1.0) converts _CYP2D6_ sequence variants from human genome assembly GRCh37/hg19 coordinates to the M33388 and AY545216 GenBank reference sequence coordinates, which are more commonly used for star allele conversion by the [**Human Cytochrome P450 (CYP) Allele Nomenclature Database](http://www.cypalleles.ki.se/cyp2d6.htm)**.  
 
     The online **CYP2D6 VCF Translator v1.0** is expected to be available by November 2015.  
 
