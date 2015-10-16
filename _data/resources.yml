@@ -3,11 +3,11 @@
 
     <br>
 
-    To address the need for a stand-alone program capable of analyzing data from targeted bisulfite sequencing technologies, we developed [**HiTMAP: a High Throughput Methylation Analysis Program**](https://hitmap.stuartscottlab.org) for bisulfite sequencing data.  HiTMAP is a comprehensive web tool that takes raw amplicon bisulfite sequence data and demultiplexes against sample barcodes, aligns sequencing reads to _in silico_ converted genomic reference sequences, quantitates CpG methylation levels, and exports resulting methylation data for both individual CpG sites and amplicon regions.  The user-facing side of HiTMAP provides an online interface for uploading raw sequence and reference files, setting alignment and methylation quantitation parameters, and for retrieving and saving analysis output data and result figures.  HiTMAP eliminates the need for manual data manipulation, local computational resources and expertise, and provides an efficient mechanism to measure CpG methylation from high-throughput next-generation bisulfite sequencing data.  
+    To address the need for a stand-alone program capable of analyzing data from targeted bisulfite sequencing technologies, we developed [**HiTMAP: a High Throughput Methylation Analysis Program](https://hitmap.stuartscottlab.org)** for bisulfite sequencing data.  HiTMAP is a comprehensive web tool that takes raw amplicon bisulfite sequence data and demultiplexes against sample barcodes, aligns sequencing reads to _in silico_ converted genomic reference sequences, quantitates CpG methylation levels, and exports resulting methylation data for both individual CpG sites and amplicon regions.  The user-facing side of HiTMAP provides an online interface for uploading raw sequence and reference files, setting alignment and methylation quantitation parameters, and for retrieving and saving analysis output data and result figures.  HiTMAP eliminates the need for manual data manipulation, local computational resources and expertise, and provides an efficient mechanism to measure CpG methylation from high-throughput next-generation bisulfite sequencing data.  
 
-    [**HiTMAP v0.9**](https://hitmap.stuartscottlab.org)
+    [**HiTMAP v0.9](https://hitmap.stuartscottlab.org)**
     
-    Please note that the HiTMAP manuscript is currently in preparation.  Questions or comments can be sent [**here**](mailto:stuart.scott@mssm.edu).
+    Please note that the HiTMAP manuscript is currently in preparation.  Questions or comments can be sent [**here](mailto:stuart.scott@mssm.edu)**.
 
     <br>
 
@@ -23,8 +23,8 @@
 
     <br>
 
-    The **CYP2D6 variant call format (VCF) Translator (v1.0) converts _CYP2D6_ sequence variants from human genome assembly GRCh37/hg19 coordinates to the M33388 and AY545216 GenBank reference sequence coordinates, which are more commonly used for star allele conversion by the [**Human Cytochrome P450 (CYP) Allele Nomenclature Database**](http://www.cypalleles.ki.se/cyp2d6.htm).  
+    The CYP2D6 variant call format (VCF) Translator (v1.0) converts _CYP2D6_ sequence variants from human genome assembly GRCh37/hg19 coordinates to the M33388 and AY545216 GenBank reference sequence coordinates, which are more commonly used for star allele conversion by the [**Human Cytochrome P450 (CYP) Allele Nomenclature Database**](http://www.cypalleles.ki.se/cyp2d6.htm).  
 
-    The online **CYP2D6 VCF Translator v1.0 is expected to be available by November 2015.  
+    The online **CYP2D6 VCF Translator v1.0** is expected to be available by November 2015.  
 
-    Please note that the CYP2D6 VCF Translator manuscript is currently in preparation.  Questions or comments can be sent [**here**](mailto:stuart.scott@mssm.edu).
+    Please note that the CYP2D6 VCF Translator manuscript is currently in preparation.  Questions or comments can be sent [**here](mailto:stuart.scott@mssm.edu)**.
