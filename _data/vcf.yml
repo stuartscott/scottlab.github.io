@@ -1,0 +1,29 @@
+title: The <em>CYP2D6</em> VCF TRANSLATOR
+body: |
+  The ***CYP2D6* variant call format (VCF) Translator** (v1.0) converts *CYP2D6* sequence variants from human genome assembly GRCh37/hg19 coordinates to the [M33388](M33388) and [AY545216](AY545216) GenBank reference sequence coordinates, which are more commonly used for star (*) allele conversion.
+
+  **Key features:**
+
+  - The input is a standard VCF file (.vcf) with a file head and 10 columns (#CHROM, POS, ID, REF, ALT, QUAL, FILTER, INFO, FORMAT, SAMPLE) limited to the full gene CYP2D6 coordinates from human genome reference hg19 (chr22:42522071-42528563).
+  - The [M33388](M33388) and [AY545216](AY545216) GenBank reference sequences have been modified to include the *CYP2D6* nucleotide corrections indicated by the [**Human Cytochrome P450 (CYP) Allele Nomenclature Database**](P450).
+  - Corrects for the CYP2D6*2 haplotype variants present in the hg19 human genome reference build (e.g., intron 1 conversion, 1661G>C, 2850C>T, 4180G>C, etc.).
+  - Coordinates and variant annotation can be downloaded as a tab delimited .txt file.
+
+  [M33388]: http://www.ncbi.nlm.nih.gov/nuccore/M33388
+  [AY545216]: http://www.ncbi.nlm.nih.gov/nuccore/AY545216
+  [P450]: http://www.cypalleles.ki.se/cyp2d6.htm
+upload: |
+  **Select file to upload:**
+post: |
+  Instructions are [here](instructions).
+
+  Example VCF is [here](example).
+
+  Please send questions or comments [here](questions).
+
+  **Please cite the following reference as needed:**<br>
+  Qiao W, Wang J, Pullman BS, Chen R, Yang Y, Scott SA. The CYP2D6 VCF Translator. *In preparation.*
+
+  [instructions]: http://stuartscottlab.org
+  [example]: http://stuartscottlab.org
+  [questions]: http://stuartscottlab.org
