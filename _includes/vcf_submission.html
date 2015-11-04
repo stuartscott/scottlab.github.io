@@ -1,0 +1,16 @@
+<script>
+  $( "#run" ).submit(function( event ) {
+
+    // Stop form from submitting normally
+    event.preventDefault();
+    var form = $(this).serialize()
+    var url = 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php'
+    // Send the data using post
+    var posting = $.post(url, form);
+    alert(posting);
+    // Put the results in a div
+    posting.done(function( data ) {
+      alert(data);
+    });
+  });
+</script>
