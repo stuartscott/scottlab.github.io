@@ -14,6 +14,8 @@ body: |
   [P450]: http://www.cypalleles.ki.se/cyp2d6.htm
 upload: |
   **Select file to upload:**
+download: |
+  **Download result:**
 post: |
   Instructions are [here](instructions).
 

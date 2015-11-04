@@ -1,16 +1,22 @@
 <script>
-  $( "#run" ).submit(function( event ) {
-
-    // Stop form from submitting normally
-    event.preventDefault();
-    var form = $(this).serialize()
-    var url = 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php'
-    // Send the data using post
-    var posting = $.post(url, form);
-    alert(posting);
-    // Put the results in a div
-    posting.done(function( data ) {
-      alert(data);
+  $("#download").hide();
+  $( "#run" ).submit(function(e) {
+    $.ajax({
+      url: 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
+      type: 'POST',
+      data: new FormData( this ),
+      processData: false,
+      contentType: false
+    }).success(function(data){
+        console.log("success!");
+        $("#download").show()
     });
+    e.preventDefault();
+  });
+  $("#openfile").click(function() {
+    window.open('https://qiaow02.u.hpc.mssm.edu/uploadingfile/upload/result.txt');
+  });
+  $("#downloadfile").click(function() {
+    window.location = 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/download.php?dir=upload&file=result.txt';
   });
 </script>
