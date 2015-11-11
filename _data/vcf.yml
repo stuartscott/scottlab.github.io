@@ -39,9 +39,9 @@ terms: |
     3. If users encounter any errors or bugs with the ***CYP2D6* VCF Translator** , please contact us through the ‘contact’ link and provide a brief description of the problem with an example dataset.
     4. User data uploaded to the ***CYP2D6* VCF Translator** is not stored on any server; however, usage data will be collected to monitor the performance of the software on these datasets and to improve the usability and accuracy of this service.
 example: |
-    Example VCF is [here](http://stuartscottlab.org/vcf/sample3.vcf).
+    Example VCF is *[here](http://stuartscottlab.org/vcf/sample3.vcf)*.
 citation: |
     **Please cite the following reference as needed:**<br>
     Qiao W, Wang J, Pullman BS, Chen R, Yang Y, Scott SA. The *CYP2D6* VCF Translator. *In preparation.*
 contact: |
-    Please send questions or comments [here](mailto:wanqiong.qiao@mssm.edu;stuart.scott@mssm.edu).
+    Please send questions or comments *[here](mailto:wanqiong.qiao@mssm.edu;stuart.scott@mssm.edu)*.
