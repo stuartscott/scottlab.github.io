@@ -36,7 +36,7 @@ instructions: |
 terms: |
     1. The ***CYP2D6* VCF Translator** is freely available for all academic purposes. Commercial users should enquire about a commercial license through the ‘contact’ link.
     2. The ***CYP2D6* VCF Translator**  is not a validated clinical device and, therefore, is intended for research use only.  We do not provide any legal liability or responsibility for the completeness, accuracy, or correctness of this program.  
-    3. If users encounter any errors or bugs with the ***CYP2D6* VCF Translator**, please contact us through the ‘contact’ link and provide a brief description of the problem with an example dataset.
+    3. If users encounter any errors or bugs with the ***CYP2D6* VCF Translator**, please contact us through the **['contact' link](http://stuartscottlab.org/vcf/#contact)** and provide a brief description of the problem with an example dataset.
     4. User data uploaded to the ***CYP2D6* VCF Translator** is not stored on any server; however, usage data will be collected to monitor the performance of the software on these datasets and to improve the usability and accuracy of this service.
     5. Please acknowledge the ***CYP2D6* VCF Translator** by citing the reference for this online tool if used for your study.
 example: |
