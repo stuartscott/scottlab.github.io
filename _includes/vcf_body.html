@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
-                {{ site.data.vcf.body | markdownify}}
+                {{ site.data.vcf.home | markdownify}}
                 </div>
             </div>
             <div class="row">
@@ -28,14 +28,6 @@
                   <div style="float:left">&nbsp;&nbsp;</div>
                   <input type="button" style="float:left; font-size: 16px; font-family: Roboto, sans-serif;" value="Download Result" id="downloadfile">
                 </div>
-            </div>
-        </div>
-    </section>
-    <section {% if index_var == 1 %} class="success" {% endif %} id="{{section_variable}}-content-2">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-10 col-lg-offset-1">
-                  {{ site.data.vcf.post | markdownify}}
             </div>
         </div>
     </section>

@@ -4,7 +4,13 @@
     <body id="page-top" class="index">
     {% include vcf_nav.html %}
     {% include vcf_header.html %}
-    {% include vcf_body.html %}
+    {% for section in site.data.vcf.sections %}
+        {% if section.title == 'Home' %}
+          {% include vcf_body.html %}
+        {% else %}
+          {% include vcf_content.html %}
+        {% endif %}
+    {% endfor %}
     {% include ext_footer.html %}
     {% include js.html %}
     {% include vcf_submission.html %}

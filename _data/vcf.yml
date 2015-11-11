@@ -1,5 +1,5 @@
 title: The <em>CYP2D6</em> VCF TRANSLATOR
-body: |
+home: |
   The ***CYP2D6* variant call format (VCF) Translator** (v1.0) converts *CYP2D6* sequence variants from human genome assembly GRCh37/hg19 coordinates to the [M33388](M33388) and [AY545216](AY545216) GenBank reference sequence coordinates, which are more commonly used for star (*) allele conversion.
 
   **Key features:**
@@ -16,16 +16,29 @@ upload: |
   **Select file to upload:**
 download: |
   **Download result:**
-post: |
-  Instructions are [here](instructions).
+sections:
+  - title: Home
+  - title: Instructions
+  - title: Example
+  - title: Terms
+  - title: Citation
+  - title: Contact
+instructions: |
+    1. Click 'Browse' to identify and select a local VCF file (.vcf).
+    2. Click 'Run'.
+    3. Click 'Open the file' to view the results onscreen or select 'Download the tab-delimited file' to download the .txt results file to a local drive.
+    4. Click 'Go Back' to return to the homepage.
 
-  Example VCF is [here](example).
+    **Notes:**
 
-  Please send questions or comments [here](questions).
-
-  **Please cite the following reference as needed:**<br>
-  Qiao W, Wang J, Pullman BS, Chen R, Yang Y, Scott SA. The CYP2D6 VCF Translator. *In preparation.*
-
-  [instructions]: http://stuartscottlab.org
-  [example]: http://stuartscottlab.org
-  [questions]: http://stuartscottlab.org
+    - The #CHROM, POS, and SAMPLE columns of a VCF file are essential to run the ***CYP2D6* VCF Translator.***
+    - The input range of the POS field is limited to the full gene CYP2D6 coordinates from human genome reference GRCh37/hg19 (chr22:42522071-42528563).
+terms: |
+    Be sure to acknowledge us when using this.
+example: |
+    Example VCF is [here](http://stuartscottlab.org/vcf/sample3.vcf).
+citation: |
+    **Please cite the following reference as needed:**<br>
+    Qiao W, Wang J, Pullman BS, Chen R, Yang Y, Scott SA. The CYP2D6 VCF Translator. *In preparation.*
+contact: |
+    Please send questions or comments [here](mailto:wanqiong.qiao@mssm.edu;stuart.scott@mssm.edu).
