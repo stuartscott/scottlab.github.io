@@ -19,7 +19,7 @@ download: |
 sections:
   - title: Home
   - title: Instructions
-  - title: Terms
+  - title: Terms of use
   - title: Example
   - title: Citation
   - title: Contact
@@ -34,7 +34,7 @@ instructions: |
     - The #CHROM, POS, and SAMPLE columns of a VCF file are essential to run the ***CYP2D6* VCF Translator.**
     - The input range of the POS field is limited to the full gene *CYP2D6* coordinates from human genome reference **[GRCh37/hg19 (chr22:42522071-42528563)](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr22%3A42522071-42528563&hgsid=452868401_q42AOxxCDdLcq5dlu6TtOgJ8JG3C)**.
     - The *CYP2D6* gene sequence of the hg19 genome reference build contains many common CYP2D62 variants.  Therefore, all CYP2D62 variants not called in a VCF because they are homozygous reference in hg19 are annotated in the output file as ‘mutant or not sequenced’.  
-terms: |
+terms of use: |
     1. The ***CYP2D6* VCF Translator** is freely available for all academic purposes. Commercial users should enquire about a commercial license through the ‘contact’ link.
     2. The ***CYP2D6* VCF Translator**  is not a validated clinical device and, therefore, is intended for research use only.  We do not provide any legal liability or responsibility for the completeness, accuracy, or correctness of this program.  
     3. If users encounter any errors or bugs with the ***CYP2D6* VCF Translator**, please contact us through the **[contact link](http://stuartscottlab.org/vcf/#contact)** and provide a brief description of the problem with an example dataset.
