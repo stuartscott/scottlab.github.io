@@ -19,8 +19,8 @@ download: |
 sections:
   - title: Home
   - title: Instructions
-  - title: Example
   - title: Terms
+  - title: Example
   - title: Citation
   - title: Contact
 instructions: |
