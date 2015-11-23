@@ -1,14 +1,18 @@
 <script>
   $("#download").hide();
   $( "#run" ).submit(function(e) {
+    var fd = new FormData();
+    var vcf = $('#vcffile')[0].files[0];
+    fd.append("vcffile", vcf);
     $.ajax({
       url: 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
       type: 'POST',
-      data: new FormData( this ),
+      data: fd,
       headers: {'X-Requested-With': 'XMLHttpRequest'},
-      processData: false
+      processData: false,
+      contentType: false
     }).success(function(data){
-        console.log("success!");
+        console.log(data);
         $("#download").show()
     });
     e.preventDefault();
