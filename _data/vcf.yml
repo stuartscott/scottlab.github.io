@@ -1,6 +1,6 @@
 title: The <em>CYP2D6</em> VCF TRANSLATOR
 home: |
-  The ***CYP2D6* variant call format (VCF) Translator** v1.0 converts *CYP2D6* sequence variants from human genome assembly GRCh37/hg19 coordinates to the [M33388.1](M33388) and [AY545216.1](AY545216) GenBank reference sequence coordinates, which are more commonly used for star (*) allele conversion.
+  The ***CYP2D6* variant call format (VCF) Translator** v1.0 converts *CYP2D6* sequence variants from human genome assembly GRCh37/hg19 coordinates to the [M33388.1](M33388) and [AY545216.1](AY545216) GenBank reference sequence coordinates, which are commonly used for *CYP2D6* star (*) allele conversion.
 
   **Key features:**
 
@@ -26,13 +26,13 @@ sections:
 instructions: |
     1. Click 'Choose File' to identify and select a local VCF file (.vcf).
     2. Click 'Run'.
-    3. Click 'Open Result in New Tab' to view the results onscreen or select ''Download Result' to download the .txt results file to a local drive.
+    3. Click 'Open Result in New Tab' to view the results onscreen or select 'Download Result' to download the .txt results file to a local drive.
     4. Click 'Go Back' to return to the homepage.
 
     **Notes:**
 
     - The #CHROM, POS, and SAMPLE columns of a VCF file are essential to run the ***CYP2D6* VCF Translator.**
-    - The input range of the POS field is limited to the full gene *CYP2D6* coordinates from human genome reference **[GRCh37/hg19 (chr22:42522071-42528563)](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr22%3A42522071-42528563&hgsid=452868401_q42AOxxCDdLcq5dlu6TtOgJ8JG3C)**.
+    - The input range of the POS field is limited to the *CYP2D6* full gene and flanking region coordinates from human genome reference **[GRCh37/hg19 (chr22:42522071-42528563)](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr22%3A42522071-42528563&hgsid=452868401_q42AOxxCDdLcq5dlu6TtOgJ8JG3C)**.
     - The *CYP2D6* gene sequence of the hg19 genome reference build contains many common *CYP2D6&#42;2* variants.  Therefore, all *CYP2D6&#42;2* variants not called in a VCF because they are homozygous reference in hg19 are annotated in the output file as ‘Mutant or Not Sequenced’.
 terms of usage: |
     1. The ***CYP2D6* VCF Translator** is freely available for all academic purposes. Commercial users should enquire about a commercial license through the ‘contact’ link.
