@@ -2,7 +2,7 @@
   $("#download").hide();
   $( "#run" ).submit(function(e) {
     $.ajax({
-      url: 'http://vcf.stuartscottlab.org/uploadingfile/uploadfile.php',
+      url: 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
       type: 'POST',
       data: new FormData( this ),
       headers: {'X-Requested-With': 'XMLHttpRequest'},
@@ -14,9 +14,9 @@
     e.preventDefault();
   });
   $("#openfile").click(function() {
-    window.open('http://vcf.stuartscottlab.org/uploadingfile/upload/result.txt');
+    window.open('https://qiaow02.u.hpc.mssm.edu/uploadingfile/upload/result.txt');
   });
   $("#downloadfile").click(function() {
-    window.location = 'http://vcf.stuartscottlab.org/uploadingfile/download.php?dir=upload&file=result.txt';
+    window.location = 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/download.php?dir=upload&file=result.txt';
   });
 </script>
