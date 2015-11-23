@@ -2,8 +2,7 @@
   $("#download").hide();
   $( "#run" ).submit(function(e) {
     var fd = new FormData();
-    var vcf = $('#vcffile')[0].files[0];
-    fd.append("vcffile", vcf);
+    fd.append("vcffile", $('#vcffile')[0].files[0]);
     $.ajax({
       url: 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
       type: 'POST',
