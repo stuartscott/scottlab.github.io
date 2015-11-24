@@ -1,11 +1,8 @@
 <script>
-  var fd = 'None';
-  $("#run").change(function(e){
-  });
   $("#download").hide();
   $( "#run" ).submit(function(e) {
-    var form = $(this)
-    var fd =  new FormData(form[0])
+    var form = $(this);
+    var fd =  new FormData(form[0]);
     $.ajax({
       url: 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
       type: 'POST',
