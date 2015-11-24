@@ -1,7 +1,19 @@
 <script>
+  // Variable to store your files
+  var files;
+
+  // Add events
+  $('input[type=file]').on('change', prepareUpload);
+
+  // Grab the files and set them to our variable
+  function prepareUpload(event)
+  {
+    files = event.target.files;
+  }
   $("#download").hide();
   $( "#run" ).submit(function(e) {
-    var fd = new FormData($("#run")[0])
+    var fd = new FormData();
+    fd.append("vcffile",files[0])
     $.ajax({
       url: 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
       type: 'POST',
