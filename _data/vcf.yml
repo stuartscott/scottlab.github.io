@@ -42,7 +42,7 @@ terms of usage: |
     4. User data uploaded to the ***CYP2D6* VCF Translator** is not stored on any server; however, usage data will be collected to monitor the performance of the software on these datasets and to improve the usability and accuracy of this service.
     5. Please acknowledge the ***CYP2D6* VCF Translator** by citing the reference for this online tool if used for your study.
 example: |
-    An example VCF is **[here](http://stuartscottlab.org/vcf/sample3.vcf)**.
+    An example VCF is **[here](http://stuartscottlab.org/vcf/sample_WGS.vcf)**.
 citation: |
     **Please cite the following reference as needed:**<br>
     Qiao W, Wang J, Pullman BS, Chen R, Yang Y, Scott SA. The *CYP2D6* VCF Translator. *In preparation.*
