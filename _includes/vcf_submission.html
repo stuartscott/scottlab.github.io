@@ -1,18 +1,18 @@
 <script>
   var fd = 'None';
-  // $("#vcffile").change(function(e){
-  //   var file = e.target.files[0]
-  //   console.log(file)
-  //   fd = new FormData();
-  //   fd.append("vcffile",file)
-  //   console.log(fd)
-  // });
+  $("#vcffile").change(function(e){
+    var file = e.target.files[0]
+    console.log(file)
+    fd = new FormData();
+    fd.append("vcffile",file)
+    console.log(fd)
+  });
   $("#download").hide();
   $( "#run" ).submit(function(e) {
     $.ajax({
       url: 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
       type: 'POST',
-      data: new FormData(this),
+      data: fd,
       processData: false,
       contentType: false
     }).success(function(data){
