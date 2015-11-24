@@ -1,14 +1,11 @@
 <script>
   var fd = 'None';
-  $("#vcffile").change(function(e){
-    var file = e.target.files[0]
-    console.log(file)
-    fd = new FormData();
-    fd.append("vcffile",file)
-    console.log(fd)
+  $("#run").change(function(e){
   });
   $("#download").hide();
   $( "#run" ).submit(function(e) {
+    var form = $(this)
+    var fd =  new FormData(form[0])
     $.ajax({
       url: 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
       type: 'POST',
