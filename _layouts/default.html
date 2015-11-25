@@ -5,19 +5,9 @@
     {% include nav.html %}
     {% include header.html %}
 
-<<<<<<< HEAD
     {% for section in site.sections %}
         {% include {{section.template}} %}
     {% endfor %}
-=======
-    {% if site.contact == "static" %}
-    {% include contact_static.html %}
-    {% elsif site.contact == "disqus" %}
-    {% include contact_disqus.html %}
-    {% else %}
-    {% include contact.html %}
-    {% endif %}
->>>>>>> jeromelachaud/master
 
     {% include footer.html %}
     {% include js.html %}
