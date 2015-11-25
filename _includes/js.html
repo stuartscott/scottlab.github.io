@@ -20,6 +20,7 @@
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/freelancer.js" }}"></script>
 
+<<<<<<< HEAD
     <script>
     //http://stackoverflow.com/questions/4425198/markdown-target-blank
     var links = document.links;
@@ -67,3 +68,9 @@
                 }
             });        
     </script>
+=======
+    {% if site.contact == "disqus" %}
+    <!-- Disqus Stuff -->
+    {% include js_disqus.html %}
+    {% endif %}
+>>>>>>> jeromelachaud/master
