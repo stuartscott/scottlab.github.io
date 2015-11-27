@@ -4,7 +4,7 @@
     var form = $(this);
     var fd =  new FormData(form[0]);
     $.ajax({
-      url: 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
+      url: 'https://wangj27.u.hpc.mssm.edu/uploadingfile/uploadfile.php',
       type: 'POST',
       data: fd,
       processData: false,
@@ -16,9 +16,9 @@
     e.preventDefault();
   });
   $("#openfile").click(function() {
-    window.open('https://qiaow02.u.hpc.mssm.edu/uploadingfile/upload/result.txt');
+    window.open('https://wangj27.u.hpc.mssm.edu/uploadingfile/upload/result.txt');
   });
   $("#downloadfile").click(function() {
-    window.location = 'https://qiaow02.u.hpc.mssm.edu/uploadingfile/download.php?dir=upload&file=result.txt';
+    window.location = 'https://wangj27.u.hpc.mssm.edu/uploadingfile/download.php?dir=upload&file=result.txt';
   });
 </script>
