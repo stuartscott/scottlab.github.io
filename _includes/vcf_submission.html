@@ -3,6 +3,7 @@
   $( "#run" ).submit(function(e) {
     var form = $(this);
     var fd =  new FormData(form[0]);
+    fd.append("submit","Run");
     $.ajax({
       url: 'http://vcf.stuartscottlab.org/uploadingfile/uploadfile.php',
       type: 'POST',
