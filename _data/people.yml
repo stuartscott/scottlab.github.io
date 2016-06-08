@@ -8,6 +8,12 @@
       picture: yaoyang.jpg
       bio: |
          Yao Yang got his PhD in Biomedical Engineering from Southeast University, Nanjing, China, before joining the Scott lab as a postdoctoral fellow in 2011.  Dr. Yao became an Instructor in 2015 and his primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in epigenomics and pharmacogenomics.  He developed [**SMRT-BS**](http://www.biomedcentral.com/1471-2164/16/350), a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences long-read sequencing, and more recently contributed to the development of a full length _CYP2D6_ amplicon sequencing method that also employs Pacific Biosciences long-read sequencing.  In addition to other collaborative research projects on multi-ethnic epigenomic profiling and population pharmacogenomics, Dr. Yang also develops novel variant calling pipelines for long-read amplicon sequencing.
+    - name: Meredith ROSS, BS
+      picture: 
+      bio: |
+    - name: Zinira Munshi, BS
+      picture: 
+      bio: |
      
 - group: Part timers / Colleagues
   members:
