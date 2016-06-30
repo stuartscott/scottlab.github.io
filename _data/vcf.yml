@@ -10,9 +10,6 @@ home: |
   - Converts variants to their reverse complement as the *CYP2D6* gene is encoded on the negative strand.
   - Coordinates and variant annotation can be downloaded as a tab delimited .txt file.
 
-  [M33388]: http://www.ncbi.nlm.nih.gov/nuccore/M33388
-  [AY545216]: http://www.ncbi.nlm.nih.gov/nuccore/AY545216
-  [P450]: http://www.cypalleles.ki.se/cyp2d6.htm
 upload: |
   **Select file to upload:**
 download: |
