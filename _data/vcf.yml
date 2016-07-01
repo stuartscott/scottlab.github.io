@@ -5,7 +5,7 @@ home: |
   **Key features:**
 
   - The input is a standard VCF file (.vcf) with a file head and 10 columns (#CHROM, POS, ID, REF, ALT, QUAL, FILTER, INFO, FORMAT, SAMPLE) limited to the full gene *CYP2D6* coordinates from human genome reference hg19 (chr22:42522071-42528563).
-  - The [M33388.1](M33388) and [AY545216.1](AY545216) GenBank reference sequences have been modified to include the *CYP2D6* nucleotide corrections indicated by the [Human Cytochrome P450 (CYP) Allele Nomenclature Database](P450).
+  - The [M33388.1][M33388] and [AY545216.1][AY545216] GenBank reference sequences have been modified to include the *CYP2D6* nucleotide corrections indicated by the [Human Cytochrome P450 (CYP) Allele Nomenclature Database][P450].
   - Corrects for the *CYP2D6&#42;2* haplotype variants present in the hg19 human genome reference build (e.g., intron 1 conversion, 1661G>C, 2850C>T, 4180G>C, etc.).
   - Converts variants to their reverse complement as the *CYP2D6* gene is encoded on the negative strand.
   - Coordinates and variant annotation can be downloaded as a tab delimited .txt file.
@@ -13,6 +13,7 @@ home: |
   [M33388]: http://www.ncbi.nlm.nih.gov/nuccore/M33388
   [AY545216]: http://www.ncbi.nlm.nih.gov/nuccore/AY545216
   [P450]: http://www.cypalleles.ki.se/cyp2d6.htm
+  
 upload: |
   **Select file to upload:**
 download: |
