@@ -9,15 +9,15 @@
       bio: |
          Yao YANG got his Ph.D. in Biomedical Engineering from Southeast University, Nanjing, China, before joining the SCOTT LAB as a postdoctoral fellow in 2011.  Dr. YANG became an Instructor in 2015 and his primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in epigenomics and pharmacogenomics.  He developed both [**SMRT-BS**](http://www.biomedcentral.com/1471-2164/16/350), a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences (PacBio) long-read sequencing, and [**long-read single molecule real-time full gene sequencing of _CYP2D6_**](http://www.ncbi.nlm.nih.gov/pubmed/26602992) using PacBio.  In addition to other collaborative research projects on multi-ethnic epigenomics and pharmacogenomics, Dr. YANG also is developing novel variant calling pipelines for long-read amplicon sequencing.
     - name: Meredith ROSS, BS
-      picture: 
+      picture: meredithross.jpg
       bio: |
          Meredith ROSS completed her Bachelor of Science (B.S.) in Biology/Biological Sciences & Medicine, Health, and Society at Vanderbilt University, and currently is a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai.  Meredith's interest in prenatal genetic counseling prompted her thesis project with the SCOTT LAB, which is aimed at assessing knowledge and attitudes on non-invasive prenatal pharmacogenetic screening among pregnant and preconception women.
     - name: Zinira MUNSHI
-      picture: 
+      picture: ziniramunshi.jpg
       bio: |
          Zinira MUNSHI is a summer student from Rutgers University, majoring in Genetics in the School of Arts and Sciences Honors Program, who is expecting to complete her Bachelor of Arts (B.A.) in 2017.  Her undergraduate research is centered on studying the role of aurora kinases in cancer, and she is the recipient of Douglass Project stipend from Rutgers University to foster engagement in research.  At the SCOTT LAB she is helping build a database of clinically actionable and informative pharmacogenomic variants and studying their multi-ethnic allele frequencies across world-wide populations.
     - name: Kevin SANAYCELA
-      picture: 
+      picture: kevinsanaycela.jpg
       bio: |
          Kevin SANAYCELA is a summer student from the Dalton School in New York City, who will be completing his high school program in 2017.  His interest in getting first hand exposure to science and research lead him to a volunteer position at the SCOTT LAB through the Dalton Science Research Program.  He currently is working on validating computational strategies for haplotype phasing from long read third-generation (PacBio) sequencing data, interrogating the _CYP2D6_ gene in selected ethnic subpopulations.
 - group: Part timers / Colleagues
@@ -44,7 +44,7 @@
          Jeff SLOAD initially volunteered in the SCOTT LAB in 2012 in conjunction with the Authentic Science Research (ASR) program at Darien High School, which aimed at getting high school students first-hand scientific research experience.  Following completion of the program and graduation from Darien High School in 2013, he continued working in the SCOTT LAB on cardiovascular pharmacogenomics projects as a summer student.  Jeff currently is studying Biology at Williams College and enjoys ultimate frisbee, jazz trombone, and the New York Rangers.
     - name: Suparna MARTIS, PhD
       bio: |
-         Suparna MARTIS got her Ph.D. form the University of Delhi in Peptide Chemistry and subsequently pursued postdoctoral research at the Institute of Genomics & Integrative Biology (CSIR) and several Senior Scientist positions at genetics/genomics companies in Asia and North America, eventually landing at Mount Sinai as a postdoctoral fellow in 2010.  With a strong background in population pharmacogenetics, Dr. MARTIS lead a number of projects in the SCOTT LAB on multi-ethnic pharmacogenetic allele profiling where she discovered several novel _CYP450_ variant alleles, including copy-number variants.  
+         Suparna MARTIS got her Ph.D. form the University of Delhi in Peptide Chemistry and subsequently pursued postdoctoral research at the Institute of Genomics & Integrative Biology (CSIR) and several Senior Scientist positions at genetics/genomics companies in Asia and North America, eventually landing at Mount Sinai as a postdoctoral fellow in 2010.  With a strong background in population pharmacogenetics, Dr. MARTIS lead a number of projects in the SCOTT LAB on multi-ethnic pharmacogenetic allele profiling where she discovered several novel _CYP450_ variant alleles, including copy-number variants.
     - name: Manishkumar PATEL, MS
       bio: |
          Manishkumar PATEL was a graduate student at the University of New Haven, CT, who did his M.S. thesis research project with the SCOTT LAB in 2009 entitled: ‘Warfarin Pharmacogenetics: Copy-Number Variation and Novel _CYP2C9_ Alleles in a Multi-ethnic Population.’  Following successful completion of his M.S. degree, Manish joined Mount Sinai as a Research Associate in a laboratory within the Department of Hematology & Medical Oncology.
