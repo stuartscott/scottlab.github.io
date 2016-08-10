@@ -25,7 +25,16 @@
                 <div class="row">
                     {% if topic.picture %}
                     <div class="col-lg-2 col-lg-push-9 col-sm-3 col-sm-push-9 col-xs-6">
-                        <span style="width:100%; height: auto"><img src="./img/research/{{topic.picture}}" style="width:100%; height: auto"></span>                        <br>
+                        <span style="width:100%; height: auto">
+                          {% if topic.link %}
+                          <a href="{{topic.link}}">
+                            <img src="./img/research/{{topic.picture}}" style="width:100%; height: auto">
+                          </a>
+                          {% else %}
+                          <img src="./img/research/{{topic.picture}}" style="width:100%; height: auto">
+                          {% endif %}
+                        </span>
+                        <br>
                     </div>
                     <div class="col-lg-8 col-lg-pull-2 col-lg-offset-1 col-sm-9 col-sm-pull-3">
                         {{topic.summary | markdownify}}
