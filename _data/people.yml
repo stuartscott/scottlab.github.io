@@ -20,12 +20,12 @@
       picture: kevinsanaycela.jpg
       bio: |
          Kevin SANAYCELA is a summer student from the Dalton School in New York City, who will be completing his high school program in 2017.  His interest in getting first hand exposure to science and research lead him to a volunteer position at the SCOTT LAB through the Dalton Science Research Program.  He currently is working on validating computational strategies for haplotype phasing from long read third-generation (PacBio) sequencing data, interrogating the _CYP2D6_ gene in selected ethnic subpopulations.
-- group: Part timers / Colleagues
+- group: Colleagues / Part timers
   members:
     - name: James WEISFELD-ADAMS, MB, ChB
       picture: jamesweisfeldadams_bw.jpeg
       bio: |
-         James WEISFELD-ADAMS XXX.
+         James WEISFELD-ADAMS Noura ABUL-HUSN is an Associate Director of Translational Genetics at the Regeneron Genetics Center, and an Adjunct Assistant Professor in Medicine and Genetics and Genomic Sciences at the Icahn School of Medicine at Mount Sinai.  [**Dr. ABUL-HUSN**](http://labs.icahn.mssm.edu/abul-husnlab) is using large-scale sequencing data to identify clinically relevant disease-gene associations and advance genetics-driven drug discovery.  She collaborates with the SCOTT LAB on pharmacogenomics discovery and genomic medicine implementation projects..
     - name: Benjamin S. PULLMAN, BA
       picture: benpullman.jpg
       bio: |
@@ -37,7 +37,7 @@
     - name: Noura ABUL-HUSN, MD, PhD
       picture: nouraabulhusn2_bw.jpg
       bio: |
-         Noura ABUL-HUSN is an Associate Director of Translational Genetics at the Regeneron Genetics Center, and an Adjunct Assistant Professor in Medicine and Genetics and Genomic Sciences at the Icahn School of Medicine at Mount Sinai.  [**Dr. ABUL-HUSN**](http://labs.icahn.mssm.edu/abul-husnlab) is using large-scale sequencing data to identify clinically relevant disease-gene associations and advance genetics-driven drug discovery.  She collaborates with the SCOTT LAB on pharmacogenomics discovery and genomic medicine implementation projects.
+         Noura ABUL-HUSN is an Associate Director of Translational Genetics at the Regeneron Genetics Center, and an Adjunct Assistant Professor in Medicine and Genetics and Genomic Sciences at the Icahn School of Medicine at Mount Sinai.  [**Dr. ABUL-HUSN**](http://labs.icahn.mssm.edu/abul-husnlab) is using large-scale sequencing data to identify clinically relevant disease-gene associations and advance genetics-driven drug discovery.  The SCOTT LAB collaborates with [**Dr. ABUL-HUSN**](http://labs.icahn.mssm.edu/abul-husnlab) on pharmacogenomics discovery and genomic medicine implementation projects.
     - name: Irene L. FENG
       bio: |
          Irene FENG is an undergraduate student at Dartmouth College doing a Bachelor of Arts (B.A.) in Computer Science/Biology.  She has been volunteering in the laboratory since February 2015, and under the direction of Ben PULLMAN, has focused her time on programming the user interface of our [**High Throughput Methylation Analysis Program (HiTMAP)**](https://hitmap.stuartscottlab.org) for amplicon bisulfite sequencing data analysis.
