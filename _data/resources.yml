@@ -5,14 +5,13 @@
 
     **[The _CYP2D6_ VCF Translator v1.0](http://stuartscottlab.org/vcf)**
 
-    <br>
-
-    The **_CYP2D6_ variant call format (VCF) Translator v1.0** converts _CYP2D6_ sequence variants from a .vcf file with GRCh37/hg19 coordinates to the [M33388.1](http://www.ncbi.nlm.nih.gov/nuccore/M33388) and [AY545216.1](http://www.ncbi.nlm.nih.gov/nuccore/AY545216) GenBank reference sequence coordinates used for _CYP2D6_ star (*) allele conversion by the [Human Cytochrome P450 (CYP) Allele Nomenclature Committee](http://www.cypalleles.ki.se/cyp2d6.htm).  
+     The **_CYP2D6_ variant call format (VCF) Translator v1.0** converts _CYP2D6_ sequence variants from a .vcf file with GRCh37/hg19 coordinates to the [M33388.1](http://www.ncbi.nlm.nih.gov/nuccore/M33388) and [AY545216.1](http://www.ncbi.nlm.nih.gov/nuccore/AY545216) GenBank reference sequence coordinates used for _CYP2D6_ star (*) allele conversion by the [Human Cytochrome P450 (CYP) Allele Nomenclature Committee](http://www.cypalleles.ki.se/cyp2d6.htm).  
     
     Additional details on the _CYP2D6_ VCF Translator can be found at [Qiao W, et al. Pharmacogenomics J, 2016 [Epub 2016 March 15.]](http://www.ncbi.nlm.nih.gov/pubmed/26975230)   
     
     Questions or comments can be sent [here](mailto:wanqiong.qiao@mssm.edu; stuart.scott@mssm.edu).  
 
+    <br>
     <br>
 
     ## ALEC: Amplicon Long-read Error Correction
@@ -26,14 +25,13 @@
     A manuscript detailing and evaluating the functionality of ALEC is currently in preparation. Questions or comments can be sent [here](mailto:yao.yang@mssm.edu; stuart.scott@mssm.edu). 
 
     <br>
-    
+    <br>
+   
     ## HiTMAP: High Throughput Methylation Analysis Program  
 
     <br>
 
     **[HiTMAP v0.9](https://hitmap.stuartscottlab.org)**
-
-    <br>
 
     To address the need for a stand-alone program capable of analyzing data from targeted bisulfite sequencing technologies, we developed [HiTMAP: a High Throughput Methylation Analysis Program](https://hitmap.stuartscottlab.org).  HiTMAP is a web tool that takes raw amplicon bisulfite sequence data and demultiplexes against sample barcodes, aligns sequencing reads to _in silico_ converted genomic reference sequences, quantitates CpG methylation levels, and exports resulting methylation data for both individual CpG sites and amplicon regions.  The user-facing side of HiTMAP provides an online interface for uploading raw sequence and reference files, setting alignment and methylation quantitation parameters, and for retrieving and saving analysis output data and result figures.  HiTMAP eliminates the need for manual data manipulation, local computational resources and expertise, and provides an efficient mechanism to measure CpG methylation from high-throughput next-generation bisulfite sequencing data.  
 
