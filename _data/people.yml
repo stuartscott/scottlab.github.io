@@ -8,14 +8,6 @@
       picture: yaoyang.jpg
       bio: |
          Yao YANG got his Ph.D. in Biomedical Engineering from Southeast University, Nanjing, China, before joining the SCOTT LAB as a postdoctoral fellow in 2011.  Dr. YANG became an Instructor in 2015 and his primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in epigenomics and pharmacogenomics.  He developed both [**SMRT-BS**](http://www.ncbi.nlm.nih.gov/pubmed/25943404), a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences (PacBio) long-read sequencing, and [**long-read single molecule real-time full gene sequencing of _CYP2D6_**](http://www.ncbi.nlm.nih.gov/pubmed/26602992) using PacBio.  In addition to other collaborative research projects on multi-ethnic epigenomics and pharmacogenomics, Dr. YANG also is developing novel variant calling pipelines for long-read amplicon sequencing.
-    - name: Meredith ROSS, BA
-      picture: meredithross.jpg
-      bio: |
-         Meredith ROSS completed her Bachelor of Arts (B.A.) in Biology/Biological Sciences & Medicine, Health, and Society at Vanderbilt University, and currently is a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai.  Meredith's interest in prenatal genetic counseling prompted her thesis project with the SCOTT LAB, which is aimed at assessing knowledge and attitudes on non-invasive prenatal pharmacogenetic screening among pregnant and preconception women.
-    - name: Zinira MUNSHI
-      picture: ziniramunshi.jpg
-      bio: |
-         Zinira MUNSHI is a summer student from Rutgers University, majoring in Genetics in the School of Arts and Sciences Honors Program, who is expecting to complete her Bachelor of Arts (B.A.) in 2017.  Her undergraduate research is centered on studying the role of aurora kinases in cancer, and she is the recipient of Douglass Project stipend from Rutgers University to foster engagement in research.  At the SCOTT LAB she is helping build a database of clinically actionable and informative pharmacogenomic variants and studying their multi-ethnic allele frequencies across world-wide populations.
     - name: Kevin SANAYCELA
       picture: kevinsanaycela.jpg
       bio: |
@@ -43,6 +35,14 @@
          Irene FENG is an undergraduate student at Dartmouth College doing a Bachelor of Arts (B.A.) in Computer Science/Biology.  She has been volunteering in the laboratory since February 2015, and under the direction of Ben PULLMAN, has focused her time on programming the user interface of our [**High Throughput Methylation Analysis Program (HiTMAP)**](https://hitmap.stuartscottlab.org) for amplicon bisulfite sequencing data analysis.
 - group: Laboratory ALUMNI
   members:
+    - name: Meredith ROSS, BA
+      picture: meredithross.jpg
+      bio: |
+         Meredith ROSS received her Bachelor of Arts (B.A.) in Biology/Biological Sciences & Medicine, Health, and Society at Vanderbilt University, and completed her Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai.  Meredith's interest in prenatal genetic counseling prompted her thesis project with the SCOTT LAB, which assessed knowledge and attitudes on non-invasive prenatal pharmacogenetic screening among pregnant and preconception women.
+    - name: Zinira MUNSHI
+      picture: ziniramunshi.jpg
+      bio: |
+         Zinira MUNSHI was a 2016 summer student from Rutgers University, majoring in Genetics in the School of Arts and Sciences Honors Program, who is expecting to complete her Bachelor of Arts (B.A.) in 2017.  Her undergraduate research studied the role of aurora kinases in cancer, and she was the recipient of a Douglass Project stipend from Rutgers University to foster engagement in research.  At the SCOTT LAB she developed a database of clinically actionable and informative pharmacogenomic variants and studied their multi-ethnic allele frequencies across world-wide populations.
     - name: Jeffrey SLOAD
       bio: |
          Jeff SLOAD initially volunteered in the SCOTT LAB in 2012 in conjunction with the Authentic Science Research (ASR) program at Darien High School, which aimed at getting high school students first-hand scientific research experience.  Following completion of the program and graduation from Darien High School in 2013, he continued working in the SCOTT LAB on cardiovascular pharmacogenomics projects as a summer student.  Jeff currently is studying Biology at Williams College and enjoys ultimate frisbee, jazz trombone, and the New York Rangers.
