@@ -8,6 +8,10 @@
       picture: yaoyang.jpg
       bio: |
          Yao YANG got his Ph.D. in Biomedical Engineering from Southeast University, Nanjing, China, before joining the SCOTT LAB as a postdoctoral fellow in 2011.  Dr. YANG became an Instructor in 2015 and his primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in epigenomics and pharmacogenomics.  He developed both [**SMRT-BS**](http://www.ncbi.nlm.nih.gov/pubmed/25943404), a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences (PacBio) long-read sequencing, and [**long-read single molecule real-time full gene sequencing of _CYP2D6_**](http://www.ncbi.nlm.nih.gov/pubmed/26602992) using PacBio.  In addition to other collaborative research projects on multi-ethnic epigenomics and pharmacogenomics, Dr. YANG also is developing novel variant calling pipelines for long-read amplicon sequencing.
+    - name: Shahad RAHAWI, BS
+      picture: 
+      bio: |
+         Shahad RAHAWI is a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai.  Shahad's interest in genomics education for clinicians prompted her thesis project with the SCOTT LAB, which is aimed at assessing knowledge and attitudes on pharmacogenomics among pediatricians to inform how to best design educational tools.
     - name: Kevin SANAYCELA
       picture: kevinsanaycela.jpg
       bio: |
