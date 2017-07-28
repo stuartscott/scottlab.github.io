@@ -13,7 +13,7 @@ home: |
   **Updates in v2.0:**
   - Multi-sample processing.
   - Updated *CYP2D6* variant translation table.
-  - VCF genotype fields denoted as ./. or "" are labeled as "Invalid Input".
+  - VCF genotype fields denoted as ./. or "" are labeled as "Invalid Input" in the Results.
 
   [M33388]: http://www.ncbi.nlm.nih.gov/nuccore/M33388
   [AY545216]: http://www.ncbi.nlm.nih.gov/nuccore/AY545216
