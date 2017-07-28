@@ -1,6 +1,6 @@
 title: The <em>CYP2D6</em> VCF TRANSLATOR
 home: |
-  The ***CYP2D6* variant call format (VCF) Translator** v1.0 converts *CYP2D6* sequence variants from human genome assembly GRCh37/hg19 coordinates to the [M33388.1][M33388] and [AY545216.1][AY545216] GenBank reference sequence coordinates, which are commonly used for *CYP2D6* star (*) allele conversion.
+  The ***CYP2D6* variant call format (VCF) Translator** v2.0 converts *CYP2D6* sequence variants from human genome assembly GRCh37/hg19 coordinates to the [M33388.1][M33388] and [AY545216.1][AY545216] GenBank reference sequence coordinates, which are commonly used for *CYP2D6* star (*) allele conversion.
 
   **Key features:**
 
@@ -9,6 +9,11 @@ home: |
   - Corrects for the *CYP2D6&#42;2* haplotype variants present in the hg19 human genome reference build (e.g., intron 1 conversion, 1661G>C, 2850C>T, 4180G>C, etc.).
   - Converts variants to their reverse complement as the *CYP2D6* gene is encoded on the negative strand.
   - Coordinates and variant annotation can be downloaded as a tab delimited .txt file.
+
+  **Updates in v2.0:**
+  - Multi-sample processing.
+  - Updated *CYP2D6* variant translation table.
+  - VCF genotype fields denoted as ./. or "" are labeled as "Invalid Input".
 
   [M33388]: http://www.ncbi.nlm.nih.gov/nuccore/M33388
   [AY545216]: http://www.ncbi.nlm.nih.gov/nuccore/AY545216
