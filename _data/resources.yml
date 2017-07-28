@@ -3,11 +3,11 @@
 
     <br>
 
-    **[The _CYP2D6_ VCF Translator v1.0](http://stuartscottlab.org/vcf)**
+    **[The _CYP2D6_ VCF Translator v2.0](http://stuartscottlab.org/vcf)**
 
-     The **_CYP2D6_ variant call format (VCF) Translator v1.0** converts _CYP2D6_ sequence variants from a .vcf file with GRCh37/hg19 coordinates to the [M33388.1](http://www.ncbi.nlm.nih.gov/nuccore/M33388) and [AY545216.1](http://www.ncbi.nlm.nih.gov/nuccore/AY545216) GenBank reference sequence coordinates used for _CYP2D6_ star (*) allele conversion by the [Human Cytochrome P450 (CYP) Allele Nomenclature Committee](http://www.cypalleles.ki.se/cyp2d6.htm).  
+     The **_CYP2D6_ variant call format (VCF) Translator v2.0** converts _CYP2D6_ sequence variants from a .vcf file with GRCh37/hg19 coordinates to the [M33388.1](http://www.ncbi.nlm.nih.gov/nuccore/M33388) and [AY545216.1](http://www.ncbi.nlm.nih.gov/nuccore/AY545216) GenBank reference sequence coordinates used for _CYP2D6_ star (*) allele conversion by the [Human Cytochrome P450 (CYP) Allele Nomenclature Committee](http://www.cypalleles.ki.se/cyp2d6.htm).  
     
-    Additional details on the _CYP2D6_ VCF Translator can be found at [Qiao W, et al. Pharmacogenomics J, 2016 [Epub 2016 March 15.]](http://www.ncbi.nlm.nih.gov/pubmed/26975230)   
+    Additional details on the _CYP2D6_ VCF Translator can be found at [Qiao W, et al. Pharmacogenomics J. 2017;17:301-303. [Epub March 15 2016.]](http://www.ncbi.nlm.nih.gov/pubmed/26975230)   
     
     Questions or comments can be sent [here](mailto:wanqiong.qiao@mssm.edu; stuart.scott@mssm.edu).  
 
