@@ -10,7 +10,7 @@ home: |
   - Converts variants to their reverse complement as the *CYP2D6* gene is encoded on the negative strand.
   - Coordinates and variant annotation can be downloaded as a tab delimited .txt file.
 
-  ****Updates in v2.0:**
+  **Updates in v2.0:**
   - Multi-sample processing.
   - Updated *CYP2D6* variant translation table.
   - VCF genotype fields denoted as ./. or "" are labeled as "Invalid Input".
