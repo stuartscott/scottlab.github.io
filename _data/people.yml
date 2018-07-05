@@ -8,14 +8,7 @@
       picture: yaoyang.jpg
       bio: |
          Yao YANG got his Ph.D. in Biomedical Engineering from Southeast University, Nanjing, China, before joining the SCOTT LAB as a postdoctoral fellow in 2011.  Dr. YANG became an Instructor in 2015 and his primary research interests involve the application and development of next-generation sequencing workflows and bioinformatic pipelines for discovery in epigenomics and pharmacogenomics.  He developed both [**SMRT-BS**](http://www.ncbi.nlm.nih.gov/pubmed/25943404), a quantitative and multiplexed DNA methylation detection method using Pacific Biosciences (PacBio) long-read sequencing, and [**long-read single molecule real-time full gene sequencing of _CYP2D6_**](http://www.ncbi.nlm.nih.gov/pubmed/26602992) using PacBio.  In addition to other collaborative research projects on multi-ethnic epigenomics and pharmacogenomics, Dr. YANG also is developing novel variant calling pipelines for long-read amplicon sequencing.
-    - name: Shahad RAHAWI, BS
-      picture: shahadrahawibw3.jpg
-      bio: |
-         Shahad RAHAWI is a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai.  Shahad's interest in genomics education prompted her thesis project with the SCOTT LAB, which is aimed at assessing pediatrician knowledge and attitudes on pharmacogenomics in an effort to better inform how to design clinician education tools.
-    - name: Kevin SANAYCELA
-      picture: kevinsanaycela.jpg
-      bio: |
-         Kevin SANAYCELA is a summer student from the Dalton School in New York City, who will be completing his high school program in 2017.  His interest in getting first hand exposure to science and research lead him to a volunteer position at the SCOTT LAB through the Dalton Science Research Program.  He currently is working on validating computational strategies for haplotype phasing from long read third-generation (PacBio) sequencing data, interrogating the _CYP2D6_ gene in selected ethnic subpopulations.
+
 - group: Colleagues / Collaborators / Part timers
   members:
     - name: James WEISFELD-ADAMS, MB, ChB
@@ -43,10 +36,18 @@
          Irene FENG is an undergraduate student at Dartmouth College doing a Bachelor of Arts (B.A.) in Computer Science/Biology.  She has been volunteering in the laboratory since February 2015, and under the direction of Ben PULLMAN, has focused her time on programming the user interface of our [**High Throughput Methylation Analysis Program (HiTMAP)**](https://hitmap.stuartscottlab.org) for amplicon bisulfite sequencing data analysis.
 - group: Laboratory ALUMNI
   members:
+    - name: Shahad RAHAWI, BS
+      picture: shahadrahawibw3.jpg
+      bio: |
+         Shahad RAHAWI is a second year Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai.  Shahad's interest in genomics education prompted her thesis project with the SCOTT LAB, which is aimed at assessing pediatrician knowledge and attitudes on pharmacogenomics in an effort to better inform how to design clinician education tools.
     - name: Meredith ROSS, BA
       picture: meredithross.jpg
       bio: |
          Meredith ROSS received her Bachelor of Arts (B.A.) in Biology/Biological Sciences & Medicine, Health, and Society at Vanderbilt University, and completed her Masters of Science (M.S.) in Genetic Counseling student at the Icahn School of Medicine at Mount Sinai.  Meredith's interest in prenatal genetic counseling prompted her thesis project with the SCOTT LAB, which assessed knowledge and attitudes on non-invasive prenatal pharmacogenetic screening among pregnant and preconception women.
+    - name: Kevin SANAYCELA
+      picture: kevinsanaycela.jpg
+      bio: |
+         Kevin SANAYCELA is a summer student from the Dalton School in New York City, who will be completing his high school program in 2017.  His interest in getting first hand exposure to science and research lead him to a volunteer position at the SCOTT LAB through the Dalton Science Research Program.  He currently is working on validating computational strategies for haplotype phasing from long read third-generation (PacBio) sequencing data, interrogating the _CYP2D6_ gene in selected ethnic subpopulations.
     - name: Zinira MUNSHI
       picture: ziniramunshi.jpg
       bio: |
