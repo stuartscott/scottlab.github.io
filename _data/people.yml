@@ -18,10 +18,6 @@
       picture: dagmarsuarez.jpg
       bio: |
          Dagmar F. HERNANDEZ-SUAREZ, M.D. is an Internal Medicine Resident at the University of Puerto Rico (UPR) School of Medicine, San Juan, Puerto Rico.  Dr. HERNANDEZ-SUAREZ recently completed a postdoctoral Master's in Clinical and Translational Science (NIHR25MD007607), which was recognized with a CRECD Scholar Research Award for Phase I.  His research is mentored by [**Dr. Jorge DUCONGE**](http://farmacia.rcm.upr.edu/wp-content/uploads/sites/15/2016/09/Profile_Jorge_Duconge.pdf) at the UPR, and is aimed at determining the clinical and genetic determinants of clopidogrel responsiveness in Caribbean Hispanics.  The SCOTT LAB is fortunate to collaborate with Drs. DUCONGE and HERNANDEZ-SUAREZ on antiplatelet pharmacogenetics while Dr. HERNANDEZ-SUAREZ pursues his career in academic cardiology.
-    - name: Benjamin S. PULLMAN, BA
-      picture: benpullman.jpg
-      bio: |
-         Ben PULLMAN completed his Bachelor of Arts (B.A.) in Computer Science and Music at Amherst College in 2013, including an honors thesis entitled Machine Learning Methods for Detecting Code Obfuscation.  He volunteered in the SCOTT LAB from 2014 to 2015 while working as a developer for the social campaign around the film _Girl Rising_.  During that time he spearheaded our [**High Throughput Methylation Analysis Program (HiTMAP)**](https://hitmap.stuartscottlab.org) project, which is a quantitative online tool for amplicon bisulfite sequencing DNA methylation analyses.  Although he will always be involved with HiTMAP, Ben currently is pursuing a Ph.D. in Computer Science and Engineering at the University of California, San Diego (UCSD) in the Center for Computational Mass Spectrometry.
     - name: Hetanshi NAIK, MS, CGC
       picture: hetanshinaik.jpg
       bio: |
@@ -44,6 +40,10 @@
       picture: kevinsanaycela.jpg
       bio: |
          Kevin SANAYCELA was a summer student from the Dalton School in New York City, who completed his high school program in 2017.  His interest in getting first hand exposure to science and research lead him to a volunteer position at the SCOTT LAB through the Dalton Science Research Program.  He currently worked on validating computational strategies for haplotype phasing from long read third-generation (PacBio) sequencing data, interrogating the _CYP2D6_ gene in selected ethnic subpopulations.
+    - name: Benjamin S. PULLMAN, BA
+      picture: benpullman.jpg
+      bio: |
+         Ben PULLMAN completed his Bachelor of Arts (B.A.) in Computer Science and Music at Amherst College in 2013, including an honors thesis entitled Machine Learning Methods for Detecting Code Obfuscation.  He volunteered in the SCOTT LAB from 2014 to 2015 while working as a developer for the social campaign around the film _Girl Rising_.  During that time he spearheaded our [**High Throughput Methylation Analysis Program (HiTMAP)**](https://hitmap.stuartscottlab.org) project, which is a quantitative online tool for amplicon bisulfite sequencing DNA methylation analyses.  Although he will always be involved with HiTMAP, Ben currently is pursuing a Ph.D. in Computer Science and Engineering at the University of California, San Diego (UCSD) in the Center for Computational Mass Spectrometry.
     - name: Zinira MUNSHI
       picture: ziniramunshi.jpg
       bio: |
